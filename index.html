@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
      <!-- Pure CSS -->
   <link rel="stylesheet" href="css/b.css">
   <link rel="stylesheet" href="css/g.css">
@@ -13,6 +13,29 @@
   <link rel="stylesheet" href="css/a.css">
   <link rel="stylesheet" href="css/all.css">
 
+	
+	<style>
+		.dahezhi{
+			width: 100%; 		/* 定义一个大盒子  宽度100% */
+		}
+		.dahezi_img_left{		/* 第二个盒子, */
+			float: left; 		/* 要左浮动 */
+			margin-right: 40px; /* 为了让图片和文字不贴着,右外边距定义40px */
+			}
+		.dahezi_txt_right{		/* 定义第三盒子 */
+			font-size: 15px;  	/* 设置字体大小 */
+			line-height: 1.6;	/* 设置行距 */
+		}
+		img{
+			width: 500px;		/* 标签样式 让图片宽度500px, */
+			height: auto;		/* 高度自动 随它去吧 */
+			}
+	</style>
+
+	
+	
+	
+	
     <title>Sigma@SDU</title>
 </head>
 <body>
@@ -79,35 +102,21 @@
     
     
     
-    
-    
-    ​<td padding-right="0%," padding-left="0%;" width="66%">
-​        <div align="left">
-​    	  <h2>数据安全计算领域</h2>
-          <p class="lead"> 数据（多方）安全计算可分为两类：（1）基于混淆电路；（2）基于同态加密。 基于混淆的多方安全计算优势在于计算开销小，但通讯开销大带宽占用高；基于 同态加密的安全计算优势在于通讯开销小，但计算开销大。
+   <div class="dahezhi">
+		<div class="dahezi_img_left"><img width="96%"  src="./images/lwe.png" /> </div>
+		<div class="dahezi_txt_right">	
+	        <h2>数据安全计算领域</h2>
+数据（多方）安全计算可分为两类：（1）基于混淆电路；（2）基于同态加密。 基于混淆的多方安全计算优势在于计算开销小，但通讯开销大带宽占用高；基于 同态加密的安全计算优势在于通讯开销小，但计算开销大。
                 在当前带宽资源远贵于计算资源的困境下，采纳基于同态加密的安全计算仍存在一个根本局限：全同态加密及其安全计算耗时低效落地难。针对该限制，围绕隐私数据安全增强这一 国家战略应用需求，Sigma小组从2012年开始，基于格密码和多方安全计算等交叉知识，深入研究了基于格的全同态加密及（多方）安全计算的技术。
                 
                 （1）基于全同态加密及可验证计算（如零知识证明）等技术，开展可验证 安全多方计算研究及产学应用。在不泄露用户私有输入数据及容忍协议性能折损 的前提下，确保计算结果的正确性与可验证性，以及参与方之间的公平性等。具体包括：基于全同态加密的安全计算（密文与密文加/乘法运算以及明文与密文 的乘法运算等），基于门限/多密钥全同态加密的安全多方计算。为后续安全计算 应用的提供理论和技术支撑，包括隐私保护相等性检测、隐私保护距离计算以及 隐私信息检索等。
 
 （2） 基于同态加密或函数秘密共享等技术，开展隐私信息检索（又称隐匿 查询）等技术，在不泄露个人查询索引（如，个人兴趣爱好）的前提下，仍获取 所需查询结果。在民用领域，可应用于隐匿兴趣/某癖好的信息检索，如隐匿位 置的兴趣点检索与匹配、隐匿敏感词的文本/视频检索与匹配；也可结合身份认 证等技术应用于匿名信息传递（Anonymous Message Delivery）或茫然信息检索 （Oblivious Message Retrieval）服务，如匿名广告投放与检索、匿名留言与 检索、匿名情报采集等。</p>
 
-
-        </div>
-    	</td>
-    
-    <td>
-        <div align="right">
-        <img width="96%" src="./images/lwe.png">
-        </div>
-      </td> 
-
-
-	      </tr>
-	    </tbody></table>
-	    <hr style="background-color: black;height: 3px;width: 100%" >
-    
-    
-    
+		</div>
+	</div>
+</body> 
+        
     
     
     
