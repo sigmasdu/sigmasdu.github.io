@@ -10,7 +10,7 @@ key: page-home
 
 ## 数据安全计算领域
 
-<div class="dahezi_img_left"><img src="https://raw.githubusercontent.com/sigmasdu/sigmasdu.github.io/main/images/lwe.png"/> </div>
+<div class="dahezi_img_left"><img src="./images/lwe.png"/> </div>
 <div class="dahezi_txt_right">
 <p class="row-1">
 &emsp;&emsp;数据（多方）安全计算可分为两类：（1）基于混淆电路；（2）基于同态加密。 基于混淆的多方安全计算优势在于计算开销小，但通讯开销大带宽占用高；基于同态加密的安全计算优势在于通讯开销小，但计算开销大。在当前带宽资源远贵于计算资源的困境下，采纳基于同态加密的安全计算仍存在一个根本局限：全同态加密及其安全计算耗时低效落地难。针对该限制，围绕隐私数据安全增强这一国家战略应用需求，Sigma小组从2012年开始，基于格密码和多方安全计算等交叉知识，深入研究了基于格的全同态加密及（多方）安全计算的技术。
@@ -27,7 +27,7 @@ key: page-home
 
 ## 身份安全认证领域
 
-<div class="dahezi_img_left"><img width="90%"  src="https://raw.githubusercontent.com/sigmasdu/sigmasdu.github.io/main/images/AKE1.png"/> </div>
+<div class="dahezi_img_left"><img width="90%"  src="./images/AKE1.png"/> </div>
 <div class="dahezi_txt_right">	
 <p class="row-1">   
 &emsp;&emsp;身份安全认证是确保信息系统安全的第一防线。依据所使用的身份凭证与用户的关系，身份安全认证可分为三类：（1）基于用户所知，如口令；（2）基于用 户所有，如 U 盾；（3）基于用户所是，如指纹。基于用户所知的单因素认证技术 应用最为广泛，可以避免开销大的公钥基础设施，但结合认证密钥交换技术实现 身份安全认证仍存在一个局限：口令认证密钥交换通讯轮次高健壮性弱应用受限。 针对该限制，围绕物理设备互联安全以及个人身份隐私增强的应用需求，Sigma小组从2016年开始，基于格密码学与口令密码学等交叉知识，深入研究了基于用户所知的认证密钥交换技术在移动互联设备中的应用。具体包括：
@@ -47,7 +47,7 @@ key: page-home
 
 ## 隐私保护区块链领域
 
-<div class="dahezi_img_left"><img src="https://raw.githubusercontent.com/sigmasdu/sigmasdu.github.io/main/images/block.png"/> </div>
+<div class="dahezi_img_left"><img src="./images/block.png"/> </div>
 <div class="dahezi_txt_right">		
 <p class="row-1">   
 &emsp;&emsp;（1）围绕零知识证明，开展哈希证明系统（指定验证者零知识证明）；基于格密码的NIZK和zkSNARK的协议设计与应用，包括multiple provers, designated-verifier等情形。
