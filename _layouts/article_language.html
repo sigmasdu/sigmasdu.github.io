@@ -1,0 +1,46 @@
+---
+layout: page
+type: article_language
+---
+
+<div align="right">
+  <button type="button" id="zh_btn" style="color: #0921EA">Chinese</button> / 
+  <button type="button" id="en_btn" style="color: #0921EA">English</button>
+</div>
+
+<div id="div"></div>
+
+<script src="https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+
+<script>
+
+document.getElementsByClassName("article__header")[0].remove() // 删除header
+
+var en = window.localStorage && window.localStorage.getItem("homepage_language_en") == 'true'
+changeToEnglish(en)
+
+$(document).ready(function(){
+  $("#zh_btn").click(function(){
+    languageClicked(false)
+  });
+  $("#en_btn").click(function(){
+    languageClicked(true)
+  });
+});
+
+function languageClicked(english) {
+  changeToEnglish(english)
+  if (window.localStorage) {
+    window.localStorage.setItem("homepage_language_en", english)
+  }
+}
+
+function changeToEnglish(english) {
+  if (english) {
+    $("#div").load("{{ page.en_path }}")
+  } else {
+    $("#div").load("{{ page.zh_path }}")
+  }
+}
+
+</script>
