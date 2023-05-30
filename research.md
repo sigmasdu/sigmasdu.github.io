@@ -40,8 +40,19 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 ### 2023
 
+- *李增鹏,王梅,陈梦佳*  
+  [新形态伪随机函数研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50kx0BEZwEbsfhgeTiJYFQZ8JYAKlCht5HAbBmMJAY5nW0Tjr1vv4gB7&uniplatform=NZKPT)  
+  信息网络安全,2023,23(05):11-21
+
+
+
 
 
 ### 2022
 
 ### 2021
+
+- *李增鹏,汪定*
+  [基于格的口令散列方案](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHZFZ--gDK-DMWNhX2H80o0YXRmgj-dLd9L9U8cvctUxr&uniplatform=NZKPT)
+  中国科学:信息科学,2021,51(08):1375-1390
+  @article{{0}, author = {李增鹏 & 汪定}, title = {基于格的口令散列方案}, journal = {中国科学:信息科学}, volume = {51}, number = {1375-1390}, year = {2021}, issn = {1674-7267}, doi ={} }
