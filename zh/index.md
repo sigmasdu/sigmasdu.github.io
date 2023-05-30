@@ -57,13 +57,13 @@ key: page-home
   
   
 <p class="row-1">   
-&emsp;&emsp;（1）零知识证明。开展基于格密码的哈希证明系统（指定验证者Proof of Membership）研究工作，并讨论其应用于身份认证等领域；基于格密码的非交互零知识证明（Non-Interactive Zero-Knowledge, NIZK)的研究工作，包括采纳Rejection-sampling技术和QAP/QSP等问题的技术路线，研究zkSNARK的协议设计与应用，应用于如multiple provers, designated-verifier等情形。
+&emsp;&emsp;（1）零知识证明。开展基于格密码的哈希证明系统（指定验证者Proof of Membership）研究工作，并讨论其应用于身份认证等领域；基于格密码的非交互零知识证明（Non-Interactive Zero-Knowledge, NIZK)的研究工作，包括采纳Rejection-sampling技术和QAP/QSP等问题的技术路线，研究zkSNARK的协议设计与应用，讨论如multiple provers, designated-verifier等情形。
 </p>  
 <p class="row-1">   
-&emsp;&emsp;（2）安全多方计算。重点开展可验证秘密共享、分布式密钥生成和去中心化可信随机数生成的研究，并应用于分布式账本或分布式安全计算中。基于门限密码学与可验证随机函数等技术，开展分布式密钥生成与去中心化随机信标生成研究，并应用于单一可信领导者，公平性安全多方计算等。
+&emsp;&emsp;（2）安全多方计算。重点开展可验证秘密共享、分布式密钥生成和去中心化可信随机数生成的研究，并应用于分布式账本或分布式安全计算中。门限密码学（如，加性秘密共享和Shamir秘密共享）是实现安全多方计算的基础必要工具，课题组结合同态加密和零知识证明等基础密码学原语，围绕可验证秘密共享、公开可验证秘密共享以及前摄性秘密共享等技术，分别开展分布式密钥生成与去中心化随机信标生成研究，并应用于门限签名，隐私领导者选举，公平性安全多方计算等。
 </p>  
 <p class="row-1">   
-&emsp;&emsp;（3）围绕门限签名，分别开展门限ECDSA、门限Schnorr、门限BLS等签名研究，结合零知识证明等，针对区块链钱包等安全问题，开展区块链钱包密钥的 安全存储与更新研究。
+&emsp;&emsp;（3）门限签名。分别开展门限ECDSA、门限Schnorr、门限BLS等签名研究，结合零知识证明等，针对区块链钱包等安全问题，开展区块链钱包密钥的安全存储与更新研究。
 </p>
 </div>
 
