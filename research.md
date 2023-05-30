@@ -42,7 +42,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [新形态伪随机函数研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50kx0BEZwEbsfhgeTiJYFQZ8JYAKlCht5HAbBmMJAY5nW0Tjr1vv4gB7&uniplatform=NZKPT)  
   李增鹏,王梅,陈梦佳  
-  信息网络安全,2023,23(05):11-21
+  信息网络安全 (2023)
   <details>
     <summary>BibTex</summary>
       
@@ -58,10 +58,49 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
       }
   </details>
 
+- [Security Authentication Protocol for Massive Machine Type Communication in 5G Networks](https://doi.org/10.1155/2023/6086686)  
+  Junfeng Miao, Zhaoshun Wang, Mei Wang, Xiao Feng, Nan Xiao, Xiaoxue Sun, Chenglu Jin.  
+  Wireless Communications & Mobile Computing (2023)  
+  <details>
+    <summary>BibTex</summary>
+      
+      @article{10.1155/2023/6086686,
+      author = {Miao, Junfeng and Wang, Zhaoshun and Wang, Mei and Feng, Xiao and Xiao, Nan and Sun, Xiaoxue and Jin, Chenglu},
+      title = {Security Authentication Protocol for Massive Machine Type Communication in 5G Networks},
+      year = {2023},
+      issue_date = {2023},
+      publisher = {John Wiley and Sons Ltd.},
+      address = {GBR},
+      volume = {2023},
+      issn = {1530-8669},
+      url = {https://doi.org/10.1155/2023/6086686},
+      doi = {10.1155/2023/6086686},
+      }
+  </details>
 
 
 
 ### 2022
+
+- [PANDA: Lightweight non-interactive privacy-preserving data aggregation for constrained devices](https://www.sciencedirect.com/science/article/abs/pii/S0167739X22000152)  
+  Mei Wang, Kun He, Jing Chen, Ruiying Du, Bingsheng Zhang, Zengpeng Li.  
+  In Future Generation Computer Systems (2022)  
+  <details>
+    <summary>BibTex</summary>
+
+      @article{WANG202228,
+      title = {PANDA: Lightweight non-interactive privacy-preserving data aggregation for constrained devices},
+      journal = {Future Generation Computer Systems},
+      volume = {131},
+      pages = {28-42},
+      year = {2022},
+      issn = {0167-739X},
+      doi = {https://doi.org/10.1016/j.future.2022.01.007},
+      url = {https://www.sciencedirect.com/science/article/pii/S0167739X22000152},
+      author = {Mei Wang and Kun He and Jing Chen and Ruiying Du and Bingsheng Zhang and Zengpeng Li},
+      keywords = {Privacy-preserving data aggregation, Trusted Execution Environment}
+      }
+  </details>
 
 - [Quantum-Safe Round-Optimal Password Authentication for Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9272675)  
   Zengpeng Li, Ding Wang, Eduardo Morais.  
@@ -99,9 +138,29 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 ### 2021
 
+- [Biometrics-Authenticated Key Exchange for Secure Messaging](https://dl.acm.org/doi/10.1145/3460120.3484746)  
+  Mei Wang, Kun He, Jing Chen, Zengpeng Li, Wei Zhao, Ruiying Du.  
+  In Computer and Communications Security (2021)   
+  <details>
+    <summary>BibTex</summary>
+
+      @inproceedings{10.1145/3460120.3484746,
+      author = {Wang, Mei and He, Kun and Chen, Jing and Li, Zengpeng and Zhao, Wei and Du, Ruiying},
+      title = {Biometrics-Authenticated Key Exchange for Secure Messaging},
+      year = {2021},
+      isbn = {9781450384544},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3460120.3484746},
+      doi = {10.1145/3460120.3484746},
+      }
+  </details>
+
+ 
+
 - [PriParkRec: Privacy-Preserving Decentralized Parking Recommendation Services](https://www.researchgate.net/publication/346204383_Quantum-Safe_Round-Optimal_Password_Authentication_for_Mobile_Devices?_sg=OUGmCcXIq01s6l6akPZ2t8olIigA8tNgAwF8q9AIVZY90GscO-CX1hzyTd-ca_WTs2crGi6jw5JrTo6w3GrGQq7ZYkYWP3jHszywuTbp.w5GSF97r1gwm28V0CFn3_dTgxROL8WApDAIBhNlzPSaPCCc0UlMidVRlQlkKKRIDtbldpCeBRpd7RaHGBBNJaA)  
   Zengpeng Li, Mamoun Alazab, Sahil Garg, M. Shamim Hossain.
-  In IEEE Transactions on Vehicular Technology (2021).
+  In IEEE Transactions on Vehicular Technology (2021)
   <details>
     <summary>BibTex</summary>
 
