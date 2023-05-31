@@ -168,17 +168,15 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
 
-      @article{TVT:LAGH21,
-      author = {Zengpeng Li and Mamoun Alazab and Sahil Garg and M. Shamim Hossain},
-      title = {PriParkRec: Privacy-Preserving Decentralized Parking Recommendation Service},
-      journal = {{IEEE} Transactions on Vehicular Technology},
-      volume = {70},
-      number = {5},
-      pages = {4037--4050},
-      year = {2021},
-      url = {https://doi.org/10.1109/TVT.2021.3074820},
-      doi = {10.1109/TVT.2021.3074820},
-      }
+      @ARTICLE{9427358,
+        author={Li, Zengpeng and Alazab, Mamoun and Garg, Sahil and Hossain, M. Shamim},
+        journal={IEEE Transactions on Vehicular Technology}, 
+        title={PriParkRec: Privacy-Preserving Decentralized Parking Recommendation Service}, 
+        year={2021},
+        volume={70},
+        number={5},
+        pages={4037-4050},
+        doi={10.1109/TVT.2021.3074820}}
   </details>
 
 - [Building Low-Interactivity Multifactor Authenticated Key Exchange for Industrial Internet of Things](https://ieeexplore.ieee.org/document/9139491)  
@@ -223,16 +221,13 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{01}, 
-        author = {李增鹏 & 汪定}, 
-        title = {基于格的口令散列方案}, 
-        journal = {中国科学:信息科学}, 
-        volume = {51}, 
-        number = {1375-1390}, 
-        year = {2021}, 
-        issn = {1674-7267}, 
-        doi ={} 
-        }
+      @article{李增鹏2021基于格的口令散列方案,
+        title={基于格的口令散列方案},
+        author={李增鹏 and 汪定},
+        journal={中国科学：信息科学},
+        number={051-008},
+        year={2021},
+      }
   </details>
 
 ### 2020
@@ -281,16 +276,14 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{CEM:LiShaMoh20,
-      author = {Zengpeng Li and Vishal Sharma and Saraju P. Mohanty},
-      title = {Preserving Data Privacy via Federated Learning: Challenges and Solutions},
-      journal = {{IEEE} Consumer Electronics Magazine},
-      volume = {9},
-      number = {3},
-      pages = {8--16},
-      year = {2020},
-      url = {https://doi.org/10.1109/MCE.2019.2959108},
-      doi = {10.1109/MCE.2019.2959108},
+      @article{2020Preserving,
+        title={Preserving Data Privacy via Federated Learning: Challenges and Solutions},
+        author={ Li, Z.  and  Sharma, V.  and  Mohanty, S. P. },
+        journal={IEEE Consumer Electronics Magazine},
+        volume={9},
+        number={3},
+        pages={8-16},
+        year={2020},
       }
   </details>
 
@@ -349,21 +342,24 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
         doi={10.1109/ACCESS.2020.3023387}}
   </details>
 
-- [一种基于对偶Regev加密的门限公钥加密方案](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXolxMON1lv0xyIOudLYFa_QX7iFoOoV383cAW6oe5-Tfw&uniplatform=NZKPT)  
+- [一种基于对偶Regev加密的门限公钥加密方案](https://journal.bupt.edu.cn/CN/abstract/abstract4653.shtml)  
   李增鹏,王九如,张问银等  
   北京邮电大学学报,2020,43(04):83-87.DOI:10.13190/j.jbupt.2019-239.  
   <details>
     <summary>BibTex</summary>
       
-      @article{{02}, 
-      author = {李增鹏,王九如,张问银 & 马春光}, 
-      title = {一种基于对偶Regev加密的门限公钥加密方案}, 
-      journal = {北京邮电大学学报}, 
-      volume = {43}, 
-      number = {83-87}, 
-      year = {2020}, 
-      issn = {1007-5321}, 
-      doi ={10.13190/j.jbupt.2019-239} 
+      @article{ 马春光:83,
+      author = {[ 马春光,  王九如,  张问银, 李增鹏]},
+      title = {一种基于对偶Regev加密的门限公钥加密方案},
+      publisher = {北京邮电大学学报},
+      year = {2020},
+      journal = {北京邮电大学学报},
+      volume = {43},
+      number = {4},
+      eid = {83},
+      pages = {83-87},
+      keywords = {格基密码学;门限密码;容错学习;安全协议},
+      doi = https://journal.bupt.edu.cn/CN/10.13190/j.jbupt.2019-239
       }
   </details>
 
@@ -428,15 +424,14 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{03}, 
-      author = {李增鹏,马春光 & 赵明昊}, 
-      title = {抵抗自适应密钥恢复攻击的层级全同态加密}, 
-      journal = {计算机研究与发展}, 
-      volume = {56}, 
-      number = {496-507}, 
-      year = {2019}, 
-      issn = {1000-1239}, 
-      doi ={} 
+      @article{李增鹏2019抵抗自适应密钥恢复攻击的层级全同态加密,
+        title={抵抗自适应密钥恢复攻击的层级全同态加密},
+        author={李增鹏 and 马春光 and 赵明昊},
+        journal={计算机研究与发展},
+        volume={56},
+        number={3},
+        pages={12},
+        year={2019},
       }
   </details>
 
@@ -466,16 +461,14 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{SCIS:LiMaZho18,
-      author = {Zengpeng Li and Chunguang Ma and Hong{-}Sheng Zhou},
-      title = {Multi-key {FHE} for multi-bit messages},
-      journal = {{SCIENCE} {CHINA} Information Sciences},
-      volume = {61},
-      number = {2},
-      pages = {029101:1--029101:3},
-      year = {2018},
-      url = {https://doi.org/10.1007/s11432-017-9206-y},
-      doi = {10.1007/s11432-017-9206-y},
+      @article{2018Multi,
+        title={Multi-Key FHE on Multi-Bit Messages},
+        author={ Zengpeng, L. I.  and  Chunguang, M. A.  and  Zhou, Hongsheng },
+        journal={中国科学：信息科学（英文版）},
+        volume={61},
+        number={2},
+        pages={3},
+        year={2018},
       }
   </details>
 
@@ -538,15 +531,14 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{Access:LiMaWan17,
-      author = {Zengpeng Li and Chunguang Ma and Ding Wang},
-      title = {Towards Multi-Hop Homomorphic Identity-Based Proxy Re-Encryption via Branching Program},
-      journal = {{IEEE} Access},
-      volume = {5},
-      pages = {16214--16228},
-      year = {2017},
-      url = {https://doi.org/10.1109/ACCESS.2017.2740720},
-      doi = {10.1109/ACCESS.2017.2740720},
+      @article{2017Towards,
+        title={Towards Multi-Hop Homomorphic Identity-Based Proxy Re-Encryption via Branching Program},
+        author={ Li, Z.  and  Ma, C.  and  Ding, W. },
+        journal={IEEE Access},
+        volume={5},
+        number={99},
+        pages={16214-16228},
+        year={2017},
       }
   </details>
 
@@ -574,13 +566,11 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @inproceedings{Trustcom:LMWZZZ17,
-      author = {Zengpeng Li and Chunguang Ma and Ding Wang and Minghao Zhao and Qian Zhao and Lu Zhou},
-      title = {Toward Proxy Re-encryption From Learning with Errors in the Exponent},
-      booktitle = {2017 {IEEE} Trustcom/BigDataSE/ICESS, Sydney, Australia, August 1-4, 2017},
-      pages = {683--690},
-      publisher = {{IEEE} Computer Society},
-      year = {2017},
+      @inproceedings{2017Toward,
+        title={Toward Proxy Re-encryption From Learning with Errors in the Exponent},
+        author={ Li, Z.  and  Ma, C.  and  Ding, W.  and  Zhao, M.  and  Lu, Z. },
+        booktitle={2017 IEEE Trustcom/BigDataSE/ICESS},
+        year={2017},
       }
   </details>
 
@@ -590,15 +580,13 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{04}, 
-      author = {李增鹏,马春光 & 周红生}, 
-      title = {全同态加密研究}, 
-      journal = {密码学报}, 
-      volume = {4}, 
-      number = {561-578}, 
-      year = {2017}, 
-      issn = {2095-7025}, 
-      doi ={10.13868/j.cnki.jcr.000208} 
+      @article{李增鹏2017全同态加密研究,
+        title={全同态加密研究},
+        author={李增鹏 and 马春光 and 周红生},
+        journal={密码学报},
+        number={6},
+        pages={18},
+        year={2017},
       }
   </details>
 
@@ -608,16 +596,21 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{05}, 
-      author = {李增鹏,马春光,张磊 & 张雯雯}, 
-      title = {两类基于容错学习的多比特格公钥加密方案}, 
-      journal = {信息网络安全}, 
-      volume = {No.202}, 
-      number = {1-7}, 
-      year = {2017}, 
-      issn = {1671-1122}, 
-      doi ={} 
-      }
+      @article{李增鹏:1,
+      author = {李增鹏, 马春光, 张磊, 张雯雯},
+      title = {两类基于容错学习的多比特格公钥加密方案},
+      publisher = {信息网络安全},
+      year = {2017},
+      journal = {信息网络安全},
+      volume = {17},
+      number = {10},
+      eid = {1},
+      numpages = {6},
+      pages = {1},
+      keywords = {格基密码;容错学习;多比特加密;全同态加密},
+      url = {http://netinfo-security.org/CN/abstract/article_6453.shtml},
+      doi = {10.3969/j.issn.1671-1122.2017.10.001}
+      }    
   </details>
 
 ### 2016
@@ -646,15 +639,11 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @inproceedings{ICPADS:LMDO16,
-      author = {Zengpeng Li and Chunguang Ma and Gang Du and Weiping Ouyang},
-      title = {Dual LWE-Based Fully Homomorphic Encryption with Errorless Key Switching},
-      booktitle = {22nd {IEEE} International Conference on Parallel and Distributed Systems, {ICPADS} 2016, Wuhan, China, December 13-16, 2016},
-      pages = {1169--1174},
-      publisher = {{IEEE} Computer Society},
-      year = {2016},
-      url = {https://doi.org/10.1109/ICPADS.2016.0154},
-      doi = {10.1109/ICPADS.2016.0154},
+      @inproceedings{2016Dual,
+        title={Dual LWE-Based Fully Homomorphic Encryption with Errorless Key Switching},
+        author={ Li, Z.  and  Ma, C.  and  Gang, D.  and  Ouyang, W. },
+        booktitle={IEEE International Conference on Parallel & Distributed Systems},
+        year={2016},
       }
   </details>
 
