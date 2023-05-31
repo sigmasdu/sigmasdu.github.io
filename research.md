@@ -45,20 +45,20 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{李增鹏:11,
-      author = {李增鹏, 王梅, 陈梦佳},
-      title = {新形态伪随机函数研究},
-      publisher = {信息网络安全},
-      year = {2023},
-      journal = {信息网络安全},
-      volume = {23},
-      number = {5},
-      eid = {11},
-      numpages = {10},
-      pages = {11},
-      keywords = {;格基密码学;全同态加密;安全多方计算;伪随机函数;密文安全计算},
-      url = {http://netinfo-security.org/CN/abstract/article_7617.shtml},
-      doi = {10.3969/j.issn.1671-1122.2023.05.002}
+      @article{李增鹏:11,  
+      author = {李增鹏, 王梅, 陈梦佳},  
+      title = {新形态伪随机函数研究},  
+      publisher = {信息网络安全},  
+      year = {2023},  
+      journal = {信息网络安全},  
+      volume = {23},  
+      number = {5},  
+      eid = {11},  
+      numpages = {10},  
+      pages = {11},  
+      keywords = {;格基密码学;全同态加密;安全多方计算;伪随机函数;密文安全计算},  
+      url = {http://netinfo-security.org/CN/abstract/article_7617.shtml},  
+      doi = {10.3969/j.issn.1671-1122.2023.05.002}  
       }    
   </details>
 
