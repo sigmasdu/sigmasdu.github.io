@@ -39,22 +39,27 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 ### 2023
 
-- [新形态伪随机函数研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50kx0BEZwEbsfhgeTiJYFQZ8JYAKlCht5HAbBmMJAY5nW0Tjr1vv4gB7&uniplatform=NZKPT)  
+- [新形态伪随机函数研究](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2023.05.002)  
   李增鹏,王梅,陈梦佳  
   信息网络安全 (2023)  
   <details>
     <summary>BibTex</summary>
       
-      @article{{023}, 
-      author = {李增鹏,王梅 & 陈梦佳}, 
-      title = {新形态伪随机函数研究}, 
-      journal = {信息网络安全}, 
-      volume = {23}, 
-      number = {11-21}, 
-      year = {2023}, 
-      issn = {1671-1122}, 
-      doi ={} 
-      }
+      @article{李增鹏:11,
+      author = {李增鹏, 王梅, 陈梦佳},
+      title = {新形态伪随机函数研究},
+      publisher = {信息网络安全},
+      year = {2023},
+      journal = {信息网络安全},
+      volume = {23},
+      number = {5},
+      eid = {11},
+      numpages = {10},
+      pages = {11},
+      keywords = {;格基密码学;全同态加密;安全多方计算;伪随机函数;密文安全计算},
+      url = {http://netinfo-security.org/CN/abstract/article_7617.shtml},
+      doi = {10.3969/j.issn.1671-1122.2023.05.002}
+      }    
   </details>
 
 - [Security Authentication Protocol for Massive Machine Type Communication in 5G Networks](https://doi.org/10.1155/2023/6086686)  
