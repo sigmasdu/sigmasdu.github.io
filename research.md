@@ -41,7 +41,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [新形态伪随机函数研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50kx0BEZwEbsfhgeTiJYFQZ8JYAKlCht5HAbBmMJAY5nW0Tjr1vv4gB7&uniplatform=NZKPT)  
   李增鹏,王梅,陈梦佳  
-  信息网络安全 (2023)
+  信息网络安全 (2023)  
   <details>
     <summary>BibTex</summary>
       
@@ -103,7 +103,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [Quantum-Safe Round-Optimal Password Authentication for Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9272675)  
   Zengpeng Li, Ding Wang, Eduardo Morais.  
-  In IEEE Transactions on Dependable and Secure Computing (2022)
+  In IEEE Transactions on Dependable and Secure Computing (2022)  
   <details>
     <summary>BibTex</summary>
 
@@ -158,8 +158,8 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
  
 
 - [PriParkRec: Privacy-Preserving Decentralized Parking Recommendation Services](https://www.researchgate.net/publication/346204383_Quantum-Safe_Round-Optimal_Password_Authentication_for_Mobile_Devices?_sg=OUGmCcXIq01s6l6akPZ2t8olIigA8tNgAwF8q9AIVZY90GscO-CX1hzyTd-ca_WTs2crGi6jw5JrTo6w3GrGQq7ZYkYWP3jHszywuTbp.w5GSF97r1gwm28V0CFn3_dTgxROL8WApDAIBhNlzPSaPCCc0UlMidVRlQlkKKRIDtbldpCeBRpd7RaHGBBNJaA)  
-  Zengpeng Li, Mamoun Alazab, Sahil Garg, M. Shamim Hossain.
-  In IEEE Transactions on Vehicular Technology (2021)
+  Zengpeng Li, Mamoun Alazab, Sahil Garg, M. Shamim Hossain.  
+  In IEEE Transactions on Vehicular Technology (2021)  
   <details>
     <summary>BibTex</summary>
 
@@ -178,7 +178,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [Building Low-Interactivity Multifactor Authenticated Key Exchange for Industrial Internet of Things](https://ieeexplore.ieee.org/document/9139491)  
   Zengpeng Li, Zheng Yang, Pawel Szalachowski, Jianying Zhou.  
-  IEEE Internet of Things Journal (2021)
+  IEEE Internet of Things Journal (2021)  
   <details>
     <summary>BibTex</summary>
 
@@ -252,8 +252,8 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   </details>
 
 - [Building Low-Interactivity Multi-Factor Authenticated Key Exchange for Industrial Internet-of-Things](https://www.researchgate.net/publication/341083165_Preserving_Data_Privacy_via_Federated_Learning_Challenges_and_Solutions)  
-  Zengpeng Li, Zheng Yang, Pawel Szalachowsk, and Jianying Zhou.
-  In IEEE Internet of Things Journal (2020).    
+  Zengpeng Li, Zheng Yang, Pawel Szalachowsk, and Jianying Zhou.  
+  In IEEE Internet of Things Journal (2020).  
   <details>
     <summary>BibTex</summary>
       
@@ -270,9 +270,9 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
       }
   </details>
 
-- [Preserving Data Privacy via Federated Learning: Challenges and Solutions](https://ieeexplore.ieee.org/document/9055478/)
-  Zengpeng Li, Vishal Sharma, and Saraju P. Mohanty.
-  In IEEE Consumer Electronics Magazine (2020).
+- [Preserving Data Privacy via Federated Learning: Challenges and Solutions](https://ieeexplore.ieee.org/document/9055478/)  
+  Zengpeng Li, Vishal Sharma, and Saraju P. Mohanty.  
+  In IEEE Consumer Electronics Magazine (2020).  
   <details>
     <summary>BibTex</summary>
       
@@ -346,7 +346,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [一种基于对偶Regev加密的门限公钥加密方案](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXolxMON1lv0xyIOudLYFa_QX7iFoOoV383cAW6oe5-Tfw&uniplatform=NZKPT)  
   李增鹏,王九如,张问银等  
-  北京邮电大学学报,2020,43(04):83-87.DOI:10.13190/j.jbupt.2019-239.
+  北京邮电大学学报,2020,43(04):83-87.DOI:10.13190/j.jbupt.2019-239.  
   <details>
     <summary>BibTex</summary>
       
@@ -419,7 +419,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [抵抗自适应密钥恢复攻击的层级全同态加密](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoC8rj65ZR0pFE-DZ9T3k050BspoxlOKTFkcAYnWKsTDl&uniplatform=NZKPT)  
   李增鹏,马春光,赵明昊  
-  计算机研究与发展,2019,56(03):496-507.
+  计算机研究与发展,2019,56(03):496-507.  
   <details>
     <summary>BibTex</summary>
       
@@ -527,7 +527,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
       }
   </details>
 
-- [Towards Multi-Hop Homomorphic Identity-Based Proxy Re-Encryption via Branching Program](https://ieeexplore.ieee.org/abstract/document/8012380)
+- [Towards Multi-Hop Homomorphic Identity-Based Proxy Re-Encryption via Branching Program](https://ieeexplore.ieee.org/abstract/document/8012380)  
   Zengpeng Li, Chunguang Ma and Ding Wang.  
   In IEEE Access 2017.  
   <details>
@@ -581,7 +581,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [全同态加密研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i0-kJR0HYBJ80QN9L51zrP5OXi0gz2N2x4MEAA8sR0vkE6YYywPhp53-n1XnjG-Dt&uniplatform=NZKPT)  
   李增鹏,马春光,周红生  
-  密码学报,2017,4(06):561-578.DOI:10.13868/j.cnki.jcr.000208.
+  密码学报,2017,4(06):561-578.DOI:10.13868/j.cnki.jcr.000208.  
   <details>
     <summary>BibTex</summary>
       
