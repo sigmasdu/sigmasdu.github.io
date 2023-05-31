@@ -218,7 +218,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{0}, 
+      @article{{01}, 
         author = {李增鹏 & 汪定}, 
         title = {基于格的口令散列方案}, 
         journal = {中国科学:信息科学}, 
@@ -350,7 +350,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{0}, 
+      @article{{02}, 
       author = {李增鹏,王九如,张问银 & 马春光}, 
       title = {一种基于对偶Regev加密的门限公钥加密方案}, 
       journal = {北京邮电大学学报}, 
@@ -423,7 +423,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{0}, 
+      @article{{03}, 
       author = {李增鹏,马春光 & 赵明昊}, 
       title = {抵抗自适应密钥恢复攻击的层级全同态加密}, 
       journal = {计算机研究与发展}, 
@@ -585,7 +585,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{0}, 
+      @article{{04}, 
       author = {李增鹏,马春光 & 周红生}, 
       title = {全同态加密研究}, 
       journal = {密码学报}, 
@@ -603,7 +603,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{0}, 
+      @article{{05}, 
       author = {李增鹏,马春光,张磊 & 张雯雯}, 
       title = {两类基于容错学习的多比特格公钥加密方案}, 
       journal = {信息网络安全}, 
