@@ -18,8 +18,8 @@ key: page-research
 - [新技术安全（0740028）](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
 
 
-## Summer School
+## Summer Courses
 
-- Selected Topics in Privacy-Enhancing Technology (SQ046104BN/SQ046104FN). Instrutor: Zengpeng Li. From 2022 July
+- Selected Topics in Privacy-Enhancing Technology (SQ046104BN/SQ046104FN). Instrutor: Zengpeng Li. From 2022 July.
 - Selected Topics in Multiparty Computing (SQ0461049H). Instructor: Hong-Sheng Zhou. Organizer: Zengpeng Li. From 2022 July.
-- Selected Topics in Privacy Data Proprecessing (SQ046104EH). Part 1 Instructor: Willy Susilo, Part II Instructor: Mark Manulis. Organizer: Zengpeng Li
+- Selected Topics in Privacy Data Proprecessing (SQ046104EH). Part 1 Instructor: Willy Susilo and Part II Instructor: Mark Manulis. Organizer: Zengpeng Li and Mei Wang. From 2023 July. 
