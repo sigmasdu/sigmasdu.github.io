@@ -44,7 +44,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   信息网络安全 (2023)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:30px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
       @article{李增鹏:11,  <br>
       author = {李增鹏, 王梅, 陈梦佳},  <br>
       title = {新形态伪随机函数研究},<br>  
