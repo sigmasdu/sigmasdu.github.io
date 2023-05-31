@@ -71,3 +71,6 @@ header:
       zh-SG   : *ZH_HANS
       # @end locale config
     url: /Awesome-Material.html
+
+  - title: Seminar
+    url: /seminar
