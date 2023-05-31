@@ -367,14 +367,15 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{TSC:LiWan19,
-      author = {Zengpeng Li and Ding Wang},
-      title = {Achieving One-Round Password-based Authenticated Key Exchange over Lattices},
-      journal = {{IEEE} Trans. Service Computing},
-      year = {2019},
-      url = {https://doi.org/10.1109/TSC.2019.2939836},
-      doi = {10.1109/TSC.2019.2939836},
-      }
+      @ARTICLE{8826379,
+        author={Li, Zengpeng and Wang, Ding},
+        journal={IEEE Transactions on Services Computing}, 
+        title={Achieving One-Round Password-Based Authenticated Key Exchange over Lattices}, 
+        year={2022},
+        volume={15},
+        number={1},
+        pages={308-321},
+        doi={10.1109/TSC.2019.2939836}}
   </details>
 
 - [Revisiting post-quantum hash proof systems over lattices for Internet of Thing authentications](https://www.researchgate.net/publication/336450331_Revisiting_post-quantum_hash_proof_systems_over_lattices_for_Internet_of_Thing_authentications)  
