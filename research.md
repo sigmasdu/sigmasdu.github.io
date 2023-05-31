@@ -42,24 +42,24 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 - [新形态伪随机函数研究](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2023.05.002)  
   李增鹏,王梅,陈梦佳  
   信息网络安全 (2023)  
-  <details>
+  <details style="background-color:#eceeef;margin-left: 30px;">
     <summary>BibTex</summary>
       
-          @article{李增鹏:11,  <br>
-          author = {李增鹏, 王梅, 陈梦佳},  <br>
-          title = {新形态伪随机函数研究},<br>  
-          publisher = {信息网络安全},<br>  
-          year = {2023},<br>  
-          journal = {信息网络安全},<br>  
-          volume = {23},<br>  
-          number = {5},<br>  
-          eid = {11},<br>  
-          numpages = {10},<br>  
-          pages = {11},<br>  
-          keywords = {;格基密码学;全同态加密;安全多方计算;伪随机函数;密文安全计算},<br>  
-          url = {http://netinfo-security.org/CN/abstract/article_7617.shtml},<br>  
-          doi = {10.3969/j.issn.1671-1122.2023.05.002}<br>  
-          }<br>    
+      @article{李增鹏:11,  <br>
+      author = {李增鹏, 王梅, 陈梦佳},  <br>
+      title = {新形态伪随机函数研究},<br>  
+      publisher = {信息网络安全},<br>  
+      year = {2023},<br>  
+      journal = {信息网络安全},<br>  
+      volume = {23},<br>  
+      number = {5},<br>  
+      eid = {11},<br>  
+      numpages = {10},<br>  
+      pages = {11},<br>  
+      keywords = {;格基密码学;全同态加密;安全多方计算;伪随机函数;密文安全计算},<br>  
+      url = {http://netinfo-security.org/CN/abstract/article_7617.shtml},<br>  
+      doi = {10.3969/j.issn.1671-1122.2023.05.002}<br>  
+      }<br>    
   </details>
 
 - [Security Authentication Protocol for Massive Machine Type Communication in 5G Networks](https://doi.org/10.1155/2023/6086686)  
@@ -68,18 +68,18 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{10.1155/2023/6086686,
-      author = {Miao, Junfeng and Wang, Zhaoshun and Wang, Mei and Feng, Xiao and Xiao, Nan and Sun, Xiaoxue and Jin, Chenglu},
-      title = {Security Authentication Protocol for Massive Machine Type Communication in 5G Networks},
-      year = {2023},
-      issue_date = {2023},
-      publisher = {John Wiley and Sons Ltd.},
-      address = {GBR},
-      volume = {2023},
-      issn = {1530-8669},
-      url = {https://doi.org/10.1155/2023/6086686},
-      doi = {10.1155/2023/6086686},
-      }
+      @article{10.1155/2023/6086686,<br> 
+      author = {Miao, Junfeng and Wang, Zhaoshun and Wang, Mei and Feng, Xiao and Xiao, Nan and Sun, Xiaoxue and Jin, Chenglu},<br> 
+      title = {Security Authentication Protocol for Massive Machine Type Communication in 5G Networks},<br> 
+      year = {2023},<br> 
+      issue_date = {2023},<br> 
+      publisher = {John Wiley and Sons Ltd.},<br> 
+      address = {GBR},<br> 
+      volume = {2023},<br> 
+      issn = {1530-8669},<br> 
+      url = {https://doi.org/10.1155/2023/6086686},<br> 
+      doi = {10.1155/2023/6086686},<br> 
+      }<br> 
   </details>
 
 
@@ -92,18 +92,18 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
 
-      @article{WANG202228,
-      title = {PANDA: Lightweight non-interactive privacy-preserving data aggregation for constrained devices},
-      journal = {Future Generation Computer Systems},
-      volume = {131},
-      pages = {28-42},
-      year = {2022},
-      issn = {0167-739X},
-      doi = {https://doi.org/10.1016/j.future.2022.01.007},
-      url = {https://www.sciencedirect.com/science/article/pii/S0167739X22000152},
-      author = {Mei Wang and Kun He and Jing Chen and Ruiying Du and Bingsheng Zhang and Zengpeng Li},
-      keywords = {Privacy-preserving data aggregation, Trusted Execution Environment}
-      }
+      @article{WANG202228,<br> 
+      title = {PANDA: Lightweight non-interactive privacy-preserving data aggregation for constrained devices},<br> 
+      journal = {Future Generation Computer Systems},<br> 
+      volume = {131},<br> 
+      pages = {28-42},<br> 
+      year = {2022},<br> 
+      issn = {0167-739X},<br> 
+      doi = {https://doi.org/10.1016/j.future.2022.01.007},<br> 
+      url = {https://www.sciencedirect.com/science/article/pii/S0167739X22000152},<br> 
+      author = {Mei Wang and Kun He and Jing Chen and Ruiying Du and Bingsheng Zhang and Zengpeng Li},<br> 
+      keywords = {Privacy-preserving data aggregation, Trusted Execution Environment}<br> 
+      }<br> 
   </details>
 
 - [Quantum-Safe Round-Optimal Password Authentication for Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9272675)  
