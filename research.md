@@ -45,7 +45,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{{0}, 
+      @article{{023}, 
       author = {李增鹏,王梅 & 陈梦佳}, 
       title = {新形态伪随机函数研究}, 
       journal = {信息网络安全}, 
