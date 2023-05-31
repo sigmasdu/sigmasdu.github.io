@@ -41,27 +41,24 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
 
 - [新形态伪随机函数研究](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2023.05.002)  
   李增鹏,王梅,陈梦佳  
-  信息网络安全 (2023)  
-  <details>
-    <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
-      @article{李增鹏:11,  <br>
-      author = {李增鹏, 王梅, 陈梦佳},  <br>
-      title = {新形态伪随机函数研究},<br>  
-      publisher = {信息网络安全},<br>  
-      year = {2023},<br>  
-      journal = {信息网络安全},<br>  
-      volume = {23},<br>  
-      number = {5},<br>  
-      eid = {11},<br>  
-      numpages = {10},<br>  
-      pages = {11},<br>  
-      keywords = {;格基密码学;全同态加密;安全多方计算;伪随机函数;密文安全计算},<br>  
-      url = {http://netinfo-security.org/CN/abstract/article_7617.shtml},<br>  
-      doi = {10.3969/j.issn.1671-1122.2023.05.002}<br>  
-      }<br>  
-      </div>  
-  </details>
+  信息网络安全 (2023)
+  <custom-bibtex>
+  @article{李增鹏:11,
+    author = {李增鹏, 王梅, 陈梦佳},
+    title = {新形态伪随机函数研究},
+    publisher = {信息网络安全},
+    year = {2023},
+    journal = {信息网络安全},
+    volume = {23},
+    number = {5},
+    eid = {11},
+    numpages = {10},
+    pages = {11},
+    keywords = {;格基密码学;全同态加密;安全多方计算;伪随机函数;密文安全计算},
+    url = {http://netinfo-security.org/CN/abstract/article_7617.shtml},
+    doi = {10.3969/j.issn.1671-1122.2023.05.002}
+  }
+  </custom-bibtex>
 
 - [Security Authentication Protocol for Massive Machine Type Communication in 5G Networks](https://doi.org/10.1155/2023/6086686)  
   Junfeng Miao, Zhaoshun Wang, Mei Wang, Xiao Feng, Nan Xiao, Xiaoxue Sun, Chenglu Jin.  
@@ -696,3 +693,30 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
     }<br> 
     </div>
   </details>
+
+<script>
+
+class BibTeX extends HTMLElement{
+  constructor(){
+      super()
+
+      const details = document.createElement('details')
+
+      const summary = document.createElement('summary')
+      summary.textContent = "BibTeX"
+      details.appendChild(summary)
+
+      const pre = document.createElement('pre')
+      pre.textContent = "BibTeX"
+      pre.setAttribute('style','background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;')
+      pre.textContent = this.textContent.trim()
+      details.appendChild(pre)
+
+      const shadow = this.attachShadow({mode: 'open'});
+      shadow.appendChild(details)
+  }
+}
+
+customElements.define('custom-bibtex', BibTeX);
+
+</script>
