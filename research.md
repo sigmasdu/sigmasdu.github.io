@@ -238,17 +238,15 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{TDSC:LWM20,
-      author = {Zengpeng Li and Ding Wang and Eduardo Morais},
-      title = {Quantum-Safe Round-Optimal Password Authentication for Mobile Devices},
-      journal = {{IEEE} Transactions on Dependable and Secure Computing},
-      volume = {},
-      number = {},
-      pages = {},
-      year = {2020},
-      url = {https://doi.org/10.1109/TDSC.2020.3040776},
-      doi = {10.1109/TDSC.2020.3040776},
-      }
+      @ARTICLE{9272675,
+        author={Li, Zengpeng and Wang, Ding and Morais, Eduardo},
+        journal={IEEE Transactions on Dependable and Secure Computing}, 
+        title={Quantum-Safe Round-Optimal Password Authentication for Mobile Devices}, 
+        year={2022},
+        volume={19},
+        number={3},
+        pages={1885-1899},
+        doi={10.1109/TDSC.2020.3040776}}
   </details>
 
 - [Building Low-Interactivity Multi-Factor Authenticated Key Exchange for Industrial Internet-of-Things](https://www.researchgate.net/publication/341083165_Preserving_Data_Privacy_via_Federated_Learning_Challenges_and_Solutions)  
@@ -257,17 +255,15 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   <details>
     <summary>BibTex</summary>
       
-      @article{IoT:LYSZ20,
-      author = {Zengpeng Li and Zheng Yang and Pawel Szalachowski and Jianying Zhou},
-      title = {Building Low-Interactivity Multi-Factor Authenticated Key Exchange for Industrial Internet-of-Things},
-      journal = {{IEEE} Internet of Things Journal},
-      volume = {},
-      number = {},
-      pages = {},
-      year = {2020},
-      url = {https://doi.org/10.1109/JIOT.2020.3008773},
-      doi = {10.1109/JIOT.2020.3008773},
-      }
+      @ARTICLE{9139491,
+        author={Li, Zengpeng and Yang, Zheng and Szalachowski, Pawel and Zhou, Jianying},
+        journal={IEEE Internet of Things Journal}, 
+        title={Building Low-Interactivity Multifactor Authenticated Key Exchange for Industrial Internet of Things}, 
+        year={2021},
+        volume={8},
+        number={2},
+        pages={844-859},
+        doi={10.1109/JIOT.2020.3008773}}
   </details>
 
 - [Preserving Data Privacy via Federated Learning: Challenges and Solutions](https://ieeexplore.ieee.org/document/9055478/)  
