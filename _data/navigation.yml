@@ -58,19 +58,8 @@ header:
       # @end locale config
     url: /courses.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Awesome-Material
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  Awesome-Material
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      # @end locale config
-    url: /Awesome-Material.html
-
   - title: Seminar
     url: /seminar
+
+  - title: Awesome-Material
+    url: /Awesome-Material.html
