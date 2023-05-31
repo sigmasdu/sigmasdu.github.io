@@ -44,7 +44,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   信息网络安全 (2023)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{李增鹏:11,  <br>
       author = {李增鹏, 王梅, 陈梦佳},  <br>
       title = {新形态伪随机函数研究},<br>  
@@ -68,7 +68,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   Wireless Communications & Mobile Computing (2023)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{10.1155/2023/6086686,<br> 
       author = {Miao, Junfeng and Wang, Zhaoshun and Wang, Mei and Feng, Xiao and Xiao, Nan and Sun, Xiaoxue and Jin, Chenglu},<br> 
       title = {Security Authentication Protocol for Massive Machine Type Communication in 5G Networks},<br> 
@@ -93,7 +93,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Future Generation Computer Systems (2022)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{WANG202228,<br> 
       title = {PANDA: Lightweight non-interactive privacy-preserving data aggregation for constrained devices},<br> 
       journal = {Future Generation Computer Systems},<br> 
@@ -114,7 +114,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Dependable and Secure Computing (2022)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{9272675,<br> 
         author={Li, Zengpeng and Wang, Ding and Morais, Eduardo},<br> 
         journal={IEEE Transactions on Dependable and Secure Computing}, <br> 
@@ -132,7 +132,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Services Computing (2022)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{8826379,<br> 
         author={Li, Zengpeng and Wang, Ding},<br> 
         journal={IEEE Transactions on Services Computing}, <br> 
@@ -152,7 +152,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Computer and Communications Security (2021)   
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @inproceedings{10.1145/3460120.3484746,<br> 
       author = {Wang, Mei and He, Kun and Chen, Jing and Li, Zengpeng and Zhao, Wei and Du, Ruiying},<br> 
       title = {Biometrics-Authenticated Key Exchange for Secure Messaging},<br> 
@@ -173,7 +173,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Vehicular Technology (2021)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px"><summary>BibTex</summary>
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{9427358,<br> 
         author={Li, Zengpeng and Alazab, Mamoun and Garg, Sahil and Hossain, M. Shamim},<br> 
         journal={IEEE Transactions on Vehicular Technology}, <br> 
@@ -191,7 +191,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   IEEE Internet of Things Journal (2021)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{9139491,<br> 
         author={Li, Zengpeng and Yang, Zheng and Szalachowski, Pawel and Zhou, Jianying},<br> 
         journal={IEEE Internet of Things Journal}, <br> 
@@ -209,7 +209,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Dependable and Secure Computing (2021).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{8630039,<br> 
         author={Ge, Xinrui and Yu, Jia and Zhang, Hanlin and Hu, Chengyu and Li, Zengpeng and Qin, Zhan and Hao, Rong},<br> 
         journal={IEEE Transactions on Dependable and Secure Computing}, <br> 
@@ -229,7 +229,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   中国科学:信息科学,2021,51(08):1375-1390  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{李增鹏2021基于格的口令散列方案,<br> 
         title={基于格的口令散列方案},<br> 
         author={李增鹏 and 汪定},<br> 
@@ -247,7 +247,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Dependable and Secure Computing (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{9272675,<br> 
         author={Li, Zengpeng and Wang, Ding and Morais, Eduardo},<br> 
         journal={IEEE Transactions on Dependable and Secure Computing}, <br> 
@@ -265,7 +265,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Internet of Things Journal (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{9139491,<br> 
         author={Li, Zengpeng and Yang, Zheng and Szalachowski, Pawel and Zhou, Jianying},<br> 
         journal={IEEE Internet of Things Journal}, <br> 
@@ -283,7 +283,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Consumer Electronics Magazine (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{2020Preserving,<br> 
         title={Preserving Data Privacy via Federated Learning: Challenges and Solutions},<br> 
         author={ Li, Z.  and  Sharma, V.  and  Mohanty, S. P. },<br> 
@@ -301,7 +301,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In SCIENCE CHINA Information Sciences (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{SCIS:LSMGS20,<br> 
       author = {Zengpeng Li and Vishal Sharma and Chunguang Ma and Chunpeng Ge, and Willy Susilo},<br> 
       title = {Ciphertext-Policy Attribute-Based Proxy Re-Encryption via Constrained PRFs},<br> 
@@ -321,7 +321,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Computers, Materials & Continua (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{CMC:LWCZ19,<br> 
       AUTHOR = {Zengpeng Li and Jiuru Wang and Chang Choi and Wenyin Zhang},<br> 
       TITLE = {Multi-Factor Password-Authenticated Key Exchange via Pythia PRF Service},<br> 
@@ -341,7 +341,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   IEEE Access (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{9194768,<br> 
         author={Zhang, Shuguang and Xian, Hequn and Li, Zengpeng and Wang, Liming},<br> 
         journal={IEEE Access}, <br> 
@@ -359,7 +359,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   北京邮电大学学报,2020,43(04):83-87.DOI:10.13190/j.jbupt.2019-239.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{ 马春光:83,<br> 
       author = {[ 马春光,  王九如,  张问银, 李增鹏]},<br> 
       title = {一种基于对偶Regev加密的门限公钥加密方案},<br> 
@@ -383,7 +383,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Services Computing 2019.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @ARTICLE{8826379,<br> 
         author={Li, Zengpeng and Wang, Ding},<br> 
         journal={IEEE Transactions on Services Computing}, <br> 
@@ -401,7 +401,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Journal of Ambient Intelligence and Humanized Computing (2019).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{JCIE:LMZC19,<br> 
       author = {Zengpeng Li and Chunguang Ma and Minghao Zhao and Chang Choi},<br> 
       title = {Revisiting post-quantum hash proof systems over lattices for Internet of Thing authentications},<br> 
@@ -418,7 +418,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Journal of the Chinese Institute of Engineers (2019).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px"><summary>BibTex</summary>
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{JCIE:LMZC19,<br> 
       author = {Zengpeng Li and Chunguang Ma and Minghao Zhao and Chang Choi},<br> 
       title = {Efficient oblivious transfer construction via multiple bits dual-mode cryptosystem for secure selection in the cloud},<br> 
@@ -440,7 +440,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   计算机研究与发展,2019,56(03):496-507.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{李增鹏2019抵抗自适应密钥恢复攻击的层级全同态加密,<br> 
         title={抵抗自适应密钥恢复攻击的层级全同态加密},<br> 
         author={李增鹏 and 马春光 and 赵明昊},<br> 
@@ -460,7 +460,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Wireless Communications and Mobile Computing 2018: 5973285:1-5973285:11 (2018).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{WCMC:LiXiaWan18,<br> 
       author = {Zengpeng Li, Can Xiang, and Chenyu Wang},<br> 
       title = {Oblivious Transfer via Lossy Encryption from Lattice-Based Cryptography},<br> 
@@ -479,7 +479,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In SCIENCE CHINA Information Sciences 2018.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{2018Multi,<br> 
         title={Multi-Key FHE on Multi-Bit Messages},<br> 
         author={ Zengpeng, L. I.  and  Chunguang, M. A.  and  Zhou, Hongsheng },<br> 
@@ -497,7 +497,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Inscrypt 2018 (Best Paper Award (2/81)).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @inproceedings{INscrypt:LiWan18,<br> 
       author = {Zengpeng Li and Ding Wang},<br> 
       title = {Two-Round {PAKE} Protocol over Lattices Without {NIZK}},<br> 
@@ -519,7 +519,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Cloud Computing, 2017.  
   <details>
    <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{TCC:LiMaWan17,<br> 
       author = {Zengpeng Li and Chunguang Ma and Ding Wang},<br> 
       title = {Achieving Multi-Hop PRE via Branching Program},<br> 
@@ -536,7 +536,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Transactions on Big Data, 2017.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{TBD:LiMaWan17,<br> 
       author = {Zengpeng Li and Chunguang Ma and Ding Wang},<br> 
       title = {Leakage Resilient Leveled FHE on Multiple Bit Message},<br> 
@@ -553,7 +553,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In IEEE Access 2017.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{2017Towards,<br> 
         title={Towards Multi-Hop Homomorphic Identity-Based Proxy Re-Encryption via Branching Program},<br> 
         author={ Li, Z.  and  Ma, C.  and  Ding, W. },<br> 
@@ -571,7 +571,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Journal of Information Security and Applications. 34: 280-284 (2017).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{JISA:LMWD17,<br> 
       author = {Zengpeng Li and Chunguang Ma and Ding Wang and Gang Du},<br> 
       title = {Toward single-server private information retrieval protocol via learning with errors},<br> 
@@ -590,7 +590,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Trustcom 2017.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @inproceedings{2017Toward,<br> 
         title={Toward Proxy Re-encryption From Learning with Errors in the Exponent},<br> 
         author={ Li, Z.  and  Ma, C.  and  Ding, W.  and  Zhao, M.  and  Lu, Z. },<br> 
@@ -605,7 +605,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   密码学报,2017,4(06):561-578.DOI:10.13868/j.cnki.jcr.000208.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{李增鹏2017全同态加密研究,<br> 
         title={全同态加密研究},<br> 
         author={李增鹏 and 马春光 and 周红生},<br> 
@@ -622,7 +622,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   信息网络安全,2017,No.202(10):1-7.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @article{李增鹏:1,<br> 
       author = {李增鹏, 马春光, 张磊, 张雯雯},<br> 
       title = {两类基于容错学习的多比特格公钥加密方案},<br> 
@@ -648,7 +648,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Inscrypt 2016.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @inproceedings{Inscrypt:LMMD16,<br> 
       author = {Zengpeng Li and Chunguang Ma and Eduardo Morais and Gang Du},<br> 
       title = {Multi-bit Leveled Homomorphic Encryption via Dual.LWE -Based},<br> 
@@ -667,7 +667,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In ICPADS 2016.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
       @inproceedings{2016Dual,<br> 
         title={Dual LWE-Based Fully Homomorphic Encryption with Errorless Key Switching},<br> 
         author={ Li, Z.  and  Ma, C.  and  Gang, D.  and  Ouyang, W. },<br> 
@@ -682,7 +682,7 @@ Generally, the list my publications can be found on DBLP, Researchgate, Schloar,
   In Provsec 2016.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
-      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px">  
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">  
     @inproceedings{Provsec:LiGalMa16,<br> 
     author = {Zengpeng Li and Steven D. Galbraith and Chunguang Ma},<br> 
     title = {Preventing Adaptive Key Recovery Attacks on the GSW Levelled Homomorphic Encryption Scheme},<br> 
