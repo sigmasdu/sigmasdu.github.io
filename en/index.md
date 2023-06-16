@@ -3,62 +3,51 @@ layout: none
 key: page-home
 ---
 
-english version
+## Overview
 
-&emsp;&emsp;Sigma小组隶属于山东大学网络空间安全学院(研究院)公钥密码团队，依托密码技术与信息安全教育部重点实验室。Sigma小组研究工作聚焦于数据安全计算与身份认证领域，在国家自然科学基金、科技部重点研发计划、山东省自然科学基金、青岛市自然科学基金、青岛市源头创新计划等竞争性课题资助下，针对复杂网络环境下数据可靠和可用的需求，基于格密码与全同态加密，可验证计算与安全多方计算，哈希证明与认证密钥交换，区块链及分布式账本安全等密码技术，着重解决存储数据的“不可信”、传输数据的“被篡改”、加密数据的“难计算”等问题，为数据流转、合规、安全计算等需求提供理论和技术支撑。同时，与国内业界公司保持密切交流合作，如华为谢尔德实验室、比特大陆等。
+&ensp;&ensp;Sigma@SDU is a research group centered around primitives and protocols of public key cryptography, led by Prof. Zengpeng Li and Prof. Mei Wang at the School of Cyber Science and Technology, Shandong University, and is part of the MoE Key Laboratory of Cryptologic Technology and Information Security.
+
+&ensp;&ensp;Research projects at Sigma@SDU focus on real-world problems about security and privacy, including secure multiparty computation, identification and authentication, verifiable computation, and blockchain technology. Our research has been supported by various competitive grants from the National Natural Science Foundation of China, National Key Research and Development Program of the Ministry of Science and Technology, etc.
+
+&ensp;&ensp;Sigma@SDU works with industry partners, including Huawei’s Shield Lab and BitMain’s Antalpha Lab, to secure our network, assets, and infrastructure. Our arsenal comprises state-of-the-art techniques of fields including fully homomorphic encryption, zero-knowledge proofs, authenticated key exchange, and lattice-based cryptography.
 
 <br>
 
-## 数据安全计算领域
+## Secure MPC at Sigma@SDU
 
 <div class="dahezi_img_left"><img src="./images/lwe.png"/> </div>
 <div class="dahezi_txt_right">
 <p class="row-1">
-&emsp;&emsp;数据（多方）安全计算可分为两类：（1）基于混淆电路；（2）基于同态加密。 基于混淆的多方安全计算优势在于计算开销小，但通讯开销大带宽占用高；基于同态加密的安全计算优势在于通讯开销小，但计算开销大。在当前带宽资源远贵于计算资源的困境下，采纳基于同态加密的安全计算仍存在一个根本局限：全同态加密及其安全计算耗时低效落地难。针对该限制，围绕隐私数据安全增强这一国家战略应用需求，Sigma小组从2012年开始，基于格密码和多方安全计算等交叉知识，深入研究了基于格的全同态加密及（多方）安全计算的技术。
+&ensp;&ensp;Secure Multi-Party Computation (MPC) can be categorized into two tracks, i.e., garbled-circuit-based MPC and homomorphic-encryption-based MPC, the former of which being generally lightweight in terms of computation but incurring high communication cost, and the latter being the opposite. Although network overhead is more of a concern in most real-world scenarios, homomorphic-encryption-based MPC is still rarely used in practice due to computational bottlenecks present in most Fully Homomorphic Encryption (FHE) schemes which render it inefficient.
 </p>
 <p class="row-1">                  
- &emsp;&emsp;（1）基于全同态加密及可验证计算（如零知识证明）等技术，开展可验证 安全多方计算研究及产学应用。在不泄露用户私有输入数据及容忍协议性能折损 的前提下，确保计算结果的正确性与可验证性，以及参与方之间的公平性等。具体包括：基于全同态加密的安全计算（密文与密文加/乘法运算以及明文与密文 的乘法运算等），基于门限/多密钥全同态加密的安全多方计算。为后续安全计算 应用的提供理论和技术支撑，包括隐私保护相等性检测、隐私保护距离计算以及 隐私信息检索等。
- </p>  
-<p class="row-1">   
-&emsp;&emsp;（2） 基于同态加密或函数秘密共享等技术，开展隐私信息检索（又称隐匿查询）等技术，在不泄露个人查询索引（如，个人兴趣爱好）的前提下，仍获取所需查询结果。在民用领域，可应用于隐匿兴趣/某癖好的信息检索，如隐匿位置的兴趣点检索与匹配、隐匿敏感词的文本/视频检索与匹配；也可结合身份认 证等技术应用于匿名信息传递（Anonymous Message Delivery）或茫然信息检索（Oblivious Message Retrieval）服务，如匿名广告投放与检索、匿名留言与检索、匿名情报采集等。
+&ensp;&ensp;To deal with this limitation, Sigma@SDU has been working on lattice-based FHE schemes and efficient FHE-based MPC protocols since 2012. Specifically, we have conducted research on threshold and multi-key FHE schemes, and MPC protocols with verifiability and fairness properties. In addition, we have built practical Private Information Retrieval (PIR) solutions based on FHE and Function Secret Sharing (FSS) schemes, which enable database lookups with queries hidden from the server and can also be applied to Anonymous Message Delivery and Oblivious Message Retrieval services when composed with authentication techniques; these services facilitate applications such as online advertisements, search engines, bulletin boards, and OSINT platforms with better user privacy than existing solutions.
 </p>
 </div>
 
 <br>
 
-## 身份安全认证领域
+## Identification and Authentication at Sigma@SDU
 
 <div class="dahezi_img_left"><img src="./images/AKE1.png"/> </div>
 <div class="dahezi_txt_right">	
 <p class="row-1">   
-&emsp;&emsp;身份安全认证是确保信息系统安全的第一防线。依据所使用的身份凭证与用户的关系，身份安全认证可分为三类：（1）基于用户所知，如口令；（2）基于用 户所有，如 U 盾；（3）基于用户所是，如指纹。基于用户所知的单因素认证技术应用最为广泛，可以避免开销大的公钥基础设施，但结合认证密钥交换技术实现身份安全认证仍存在一个局限：口令认证密钥交换通讯轮次高健壮性弱应用受限。 针对该限制，围绕物理设备互联安全以及个人身份隐私增强的应用需求，Sigma小组从2016年开始，基于格密码学与口令密码学等交叉知识，深入研究了基于用户所知的认证密钥交换技术在移动互联设备中的应用。具体包括：
+&ensp;&ensp;Proper identification and authentication of the user acts as the first line of defense in securing computer systems. Multiple factors should be considered in authenticating user identities, including passwords, physical keys, and fingerprints, which represent what the user knows, what the user has, and who the user is, respectively.
  </p>  
 <p class="row-1">   
-&emsp;&emsp;（1）基于新型态伪随机函数的口令认证密钥交换（Password-Authenticated Key Exchange，PAKE）研究。认证密钥交换技术（AKE）在密钥交换(KE)的基础上，增加了通信双方认证彼此身份的功能，然而需要依赖于公钥基础设施（PKI）。 PAKE相较于AKE的优势在于无需依赖PKI，而仅通过口令(password)或指纹、步态等生物特征作为认证因子，便可认证彼此身份同时生成会话密钥建立安全信道。 围绕匿名凭证、AKE和PAKE等，针对资源受限物理设备间，开展身份认证与安全通信。可以应用于匿名Token生成；设备互联认证（如手机与百度小度、小米 小爱、华为小艺之间建立安全认证）。
- </p>  
-<p class="row-1">   
-&emsp;&emsp;（2）轻量级群组认证。如Ad-Hoc网络环境下，基于轻量级密码算法与哈希函数，开展端到端的认证与密钥协商以及群组间的认证与密钥协商，可应用于水下多传感器间、车载单元（OBU）间、无人机间的安全通信，如车联网、战术数据链等。
- </p>  
-<p class="row-1">   
-&emsp;&emsp;（3）针对检测认证身份及口令信息是否泄漏问题，基于不经意伪随机函数，开展适用于网络环境下身份认证技术。
-</p>
+&ensp;&ensp;Since 2016, Sigma@SDU has been doing research on Password-Authenticated Key Exchange (PAKE) protocols, designed for embedded devices such as Internet of Things appliances and mobile phones. Our PAKE scheme unifies identification and session key agreement, and utilizes passwords or biometrics for symmetric key establishment without the need for a Public Key Infrastructure (PKI). Besides that, we have worked on a lightweight group authentication scheme, which uses only lightweight hashing and encryption primitives, enables end-to-end secure messaging among resource-constrained group members, and can be applied to the secure communication of Unmanned Aerial Vehicles (UAVs), On-Board Units (OBUs), etc. situated in ad hoc networks.
+ </p>
 </div>
 
 <br>
 
-## 隐私保护区块链领域
+## Blockchains at Sigma@SDU
 
 <div class="dahezi_img_left"><img src="./images/block.png"/> </div>
 <div class="dahezi_txt_right">		
-<p class="row-1">   
-&emsp;&emsp;（1）围绕零知识证明，开展哈希证明系统（指定验证者零知识证明）；基于格密码的NIZK和zkSNARK的协议设计与应用，包括multiple provers, designated-verifier等情形。
-</p>  
-<p class="row-1">   
-&emsp;&emsp;（2）针对安全多方计算中，分布式密钥生成和去中心化可信随机数生成问题，基于门限密码学与可验证随机函数等技术，开展分布式密钥生成与去中心化随机信标生成研究，并应用于单一可信领导者，公平性安全多方计算等。
-</p>  
-<p class="row-1">   
-&emsp;&emsp;（3）围绕门限签名，分别开展门限ECDSA、门限Schnorr、门限BLS等签名 研究，结合零知识证明等，针对区块链钱包等安全问题，开展区块链钱包密钥的 安全存储与更新研究。
-</p>
+  <p class="row-1">   
+&ensp;&ensp;In recent years, blockchains have been a trending topic both for the general public and cryptography researchers. Sigma@SDU keeps track of big events in the cryptocurrency world and has been working towards improved privacy and trustworthiness in that community. In more detail, we have worked on projects regarding zero-knowledge proofs in lattice-based, multiple-prover, and designated-verifier settings, and efficient threshold ECDSA/Schnorr signing protocols that enable secure, distributed wallet custody. Also, we have built Distributed Randomness Beacon (DRB) schemes that generate unbiased, unpredictable, cryptographically-secure random numbers suitable for multi-party protocols and smart contracts.
+ </p>
 </div>
 
 
