@@ -17,14 +17,14 @@ key: page-research
 ## Selected Funded Projects
 Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous support. 
 ### ongoing
-- National Key Research and Development Program of China (grant No. 2022YFB2701700)
-- National Key Research and Development Program of China (grant No. 2021YFA1000600)
-- 基于格密码的分布式随机信标生成机制研究 (Research on Distributed Random Beacon over Lattices)
+- National Key Research and Development Program of China (grant No. 2022YFB2701700)<br>
+- National Key Research and Development Program of China (grant No. 2021YFA1000600)<br>
+- 基于格密码的分布式随机信标生成机制研究 (Research on Distributed Random Beacon over Lattices)<br>
   National Natural Science Foundation of Shandong Province, China (grant No. ZR2023MF045)
-- 基于隐私计算的口令认证密钥交换 (Research on Password-Authenticated Key Exchange)
+- 基于隐私计算的口令认证密钥交换 (Research on Password-Authenticated Key Exchange)<br>
   National Natural Science Foundation of Shandong Province, China (grant No. ZR2023QF045)
-- 去中心化随机信标生成关键技术研究 (Cryptographic Techniques for Decentralized Randomness Generation)
-- National Natural Science Foundation of Qingdao, China，(grant No. 23-2-1-152-zyyd-jch)
+- 去中心化随机信标生成关键技术研究 (Cryptographic Techniques for Decentralized Randomness Generation)<br>
+  National Natural Science Foundation of Qingdao, China，(grant No. 23-2-1-152-zyyd-jch)
 
 ### done
 - 基于格基全同态加密的密文安全计算研究 (Research on Secure Computing of Encrypted Data via Lattice-Based Fully Homomorphic Encryption) No. 61802214
