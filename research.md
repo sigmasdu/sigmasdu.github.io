@@ -1,6 +1,5 @@
 ---
 layout: article
-title:
 key: page-research
 ---
 
