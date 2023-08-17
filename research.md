@@ -14,9 +14,34 @@ titles:
   # @end locale config
 key: page-research
 ---
+## Selected Funded Projects
+Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous support. 
+### ongoing
+- National Key Research and Development Program of China (grant No. 2022YFB2701700)
+- National Key Research and Development Program of China (grant No. 2021YFA1000600)
+- 基于格密码的分布式随机信标生成机制研究 (Research on Distributed Random Beacon over Lattices)
+  National Natural Science Foundation of Shandong Province, China (grant No. ZR2023MF045)
+- 基于隐私计算的口令认证密钥交换 (Research on Password-Authenticated Key Exchange)
+  National Natural Science Foundation of Shandong Province, China (grant No. ZR2023QF045)
+- 去中心化随机信标生成关键技术研究 (Cryptographic Techniques for Decentralized Randomness Generation)
+- National Natural Science Foundation of Qingdao, China，(grant No. 23-2-1-152-zyyd-jch)
+
+### done
+- 基于格基全同态加密的密文安全计算研究 (Research on Secure Computing of Encrypted Data via Lattice-Based Fully Homomorphic Encryption) No. 61802214
+	National Natural Science Foundation of China, NSFC, from 2019 to 2021.
+- 基于格的受限伪随机函数关键问题研究 (Research on Constrained PRF over lattices) No. ZR2019BF009
+	National Natural Science Foundation of Shandong Province, China, from June 2019  to March 2022.
+- 基于格密码的可验证伪随机函数安全计算研究 (Research on VRF over lattices) No. 19-6-2-cg
+	Qingdao Applied Foundational Research Program, China, from August 2019 to July 2021.  
+
 
 ## Publications
-Generally, the list my publications can be found on DBLP, Researchgate, Schloar, IEEE, and Web of Science. 
+
+ <p> Generally, the list my publications can be found on <a href="http://dblp.uni-trier.de/pers/hd/l/Li:Zengpeng" target="_blank">DBLP</a>,
+<a href="https://www.researchgate.net/profile/Zengpeng_Li2" target="_blank">Researchgate</a>,
+<a href="https://scholar.google.com/citations?hl=en&user=_Jtom6EAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AJsN-F53hRqBJRJ8H3xMA9KpBnoBKxQDcy36a0z5ouz5Ckvh7QPR_jOrblWBxUQRTGyhJqFiJ07DiAX-w_sJUxGIQKURRIFShcDwyqw8jwku9NVu8G42muM" target="_blank">Schloar</a>, <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&searchWithin=%22First%20Name%22:zengpeng&searchWithin=%22Last%20Name%22:li" target="_blank">IEEE</a>, 
+<a href="https://apps.webofknowledge.com/Search.do?product=WOS&SID=E1VnZkfIn9cRPBvaDLr&search_mode=GeneralSearch&prID=e8389f2d-e8aa-4621-8300-7d9c13337e59" target="_blank">Web of Science</a>, and <a href="https://zengpengli.github.io/list.html">(My List)</a>.
+
 ### ongoing
 - Funder: Future-Proofed Decentralized Random Beacon
 - PADRE: Privacy-Aware Decentralized Randomness
