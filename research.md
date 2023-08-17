@@ -30,19 +30,19 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 
 ### done
 - 基于格基全同态加密的密文安全计算研究 (Research on Secure Computing of Encrypted Data via Lattice-Based Fully Homomorphic Encryption) No. 61802214
-	National Natural Science Foundation of China, NSFC, from 2019 to 2021.
+	National Natural Science Foundation of China, NSFC.
 - 基于格的受限伪随机函数关键问题研究 (Research on Constrained PRF over lattices) No. ZR2019BF009
-	National Natural Science Foundation of Shandong Province, China, from June 2019  to March 2022.
+	National Natural Science Foundation of Shandong Province, China.
 - 基于格密码的可验证伪随机函数安全计算研究 (Research on VRF over lattices) No. 19-6-2-cg
-	Qingdao Applied Foundational Research Program, China, from August 2019 to July 2021.  
+	Qingdao Applied Foundational Research Program, China  
 
 
 ## Publications
 
-<p> Generally, the list my publications can be found on <a href="http://dblp.uni-trier.de/pers/hd/l/Li:Zengpeng" target="_blank">DBLP</a>,
+<p> Generally, the list our publications can be found on <a href="http://dblp.uni-trier.de/pers/hd/l/Li:Zengpeng" target="_blank">DBLP</a>,
 <a href="https://www.researchgate.net/profile/Zengpeng_Li2" target="_blank">Researchgate</a>,
-<a href="https://scholar.google.com/citations?hl=en&user=_Jtom6EAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AJsN-F53hRqBJRJ8H3xMA9KpBnoBKxQDcy36a0z5ouz5Ckvh7QPR_jOrblWBxUQRTGyhJqFiJ07DiAX-w_sJUxGIQKURRIFShcDwyqw8jwku9NVu8G42muM" target="_blank">Schloar</a>, <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&searchWithin=%22First%20Name%22:zengpeng&searchWithin=%22Last%20Name%22:li" target="_blank">IEEE</a>, 
-<a href="https://apps.webofknowledge.com/Search.do?product=WOS&SID=E1VnZkfIn9cRPBvaDLr&search_mode=GeneralSearch&prID=e8389f2d-e8aa-4621-8300-7d9c13337e59" target="_blank">Web of Science</a>, and <a href="https://zengpengli.github.io/list.html">(My List)</a>.
+<a href="https://scholar.google.com/citations?hl=en&user=_Jtom6EAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AJsN-F53hRqBJRJ8H3xMA9KpBnoBKxQDcy36a0z5ouz5Ckvh7QPR_jOrblWBxUQRTGyhJqFiJ07DiAX-w_sJUxGIQKURRIFShcDwyqw8jwku9NVu8G42muM" target="_blank">Schloar</a>, <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&searchWithin=%22First%20Name%22:zengpeng&searchWithin=%22Last%20Name%22:li" target="_blank">IEEE</a>, and
+<a href="https://apps.webofknowledge.com/Search.do?product=WOS&SID=E1VnZkfIn9cRPBvaDLr&search_mode=GeneralSearch&prID=e8389f2d-e8aa-4621-8300-7d9c13337e59" target="_blank">Web of Science</a>.
 </p>
 
 
