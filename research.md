@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+titles: Research
   # @start locale config
   en      : &EN       Research
   en-GB   : *EN
@@ -23,7 +23,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 - National Key Research and Development Program of China (grant No. 2021YFA1000600)<br>
 - 基于格密码的分布式随机信标生成机制研究 (Research on Distributed Random Beacon over Lattices)<br>
   National Natural Science Foundation of Shandong Province, China (grant No. ZR2023MF045)
-- 基于隐私计算的口令认证密钥交换 (Research on Password-Authenticated Key Exchange)<br>
+- 工业互联网口令认证关键问题研究 (Research on Password-Authenticated Key Exchange for Industrial IoT)<br>
   National Natural Science Foundation of Shandong Province, China (grant No. ZR2023QF088)
 - 去中心化随机信标生成关键技术研究 (Cryptographic Techniques for Decentralized Randomness Generation)<br>
   National Natural Science Foundation of Qingdao, China，(grant No. 23-2-1-152-zyyd-jch)
