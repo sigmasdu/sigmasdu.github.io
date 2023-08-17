@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Research
+show_title: false
 key: page-research
 ---
 
