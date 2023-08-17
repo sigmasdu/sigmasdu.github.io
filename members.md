@@ -11,7 +11,7 @@ key: page-members
 - [王梅](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
 
 
-## PhD students
+## Ph.D. students
 
 - 2020级 廖光宇（co-supervisor）格密码与门限签名
 - 2022级 李静然（co-supervisor） PIR及应用
@@ -36,7 +36,7 @@ key: page-members
 - 2023级 王思旸（山东大学，中交委培）距离计算与PAKE
 
 
-## Undergradute students
+## Undergraduate students
 
 - 2023级 邵鹏翔 基于函数秘密共享的隐私紧邻检测
 - 2023级 王彦森 门限ECDSA签名
@@ -61,8 +61,8 @@ key: page-members
 ## Internship students
 
 Proximity Test for Proof of Location
-- 2023密码技术竞赛三等奖 韦肖扬、倪晓晗、倪佳蔚 (https://PPLP-ABY.github.io)
 - 2023隐私计算Hackathon二等奖（1/2）韦肖扬、倪晓晗
-
+- 2022密码技术竞赛三等奖 韦肖扬、倪晓晗、倪佳蔚 (https://PPLP-ABY.github.io)
+  
 Decentralized Randomness for Proof of Stake
-- [2022信息安全竞赛优胜奖 杨尚华、周世焜、李恒远、刘畅](https://119.45.125.251/)
+- 2022信息安全竞赛优胜奖 杨尚华、周世焜、李恒远、刘畅 (https://119.45.125.251/)
