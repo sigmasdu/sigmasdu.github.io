@@ -1,17 +1,6 @@
 ---
 layout: article
-titles: Research
-  # @start locale config
-  en      : &EN       Research
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  研究
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  # @end locale config
+title:
 key: page-research
 ---
 
