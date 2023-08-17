@@ -39,10 +39,12 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 
 ## Publications
 
- <p> Generally, the list my publications can be found on <a href="http://dblp.uni-trier.de/pers/hd/l/Li:Zengpeng" target="_blank">DBLP</a>,
+<p> Generally, the list my publications can be found on <a href="http://dblp.uni-trier.de/pers/hd/l/Li:Zengpeng" target="_blank">DBLP</a>,
 <a href="https://www.researchgate.net/profile/Zengpeng_Li2" target="_blank">Researchgate</a>,
 <a href="https://scholar.google.com/citations?hl=en&user=_Jtom6EAAAAJ&sortby=pubdate&view_op=list_works&authuser=1&gmla=AJsN-F53hRqBJRJ8H3xMA9KpBnoBKxQDcy36a0z5ouz5Ckvh7QPR_jOrblWBxUQRTGyhJqFiJ07DiAX-w_sJUxGIQKURRIFShcDwyqw8jwku9NVu8G42muM" target="_blank">Schloar</a>, <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&searchWithin=%22First%20Name%22:zengpeng&searchWithin=%22Last%20Name%22:li" target="_blank">IEEE</a>, 
 <a href="https://apps.webofknowledge.com/Search.do?product=WOS&SID=E1VnZkfIn9cRPBvaDLr&search_mode=GeneralSearch&prID=e8389f2d-e8aa-4621-8300-7d9c13337e59" target="_blank">Web of Science</a>, and <a href="https://zengpengli.github.io/list.html">(My List)</a>.
+</p>
+
 
 ### ongoing
 - Funder: Future-Proofed Decentralized Random Beacon
