@@ -14,7 +14,7 @@ key: page-members
 ## Ph.D. students
 
 - 2023级 陈梦佳 FHE与PIR
-- 2023级 魏英凯（co-supervisor）
+- 2023级 魏英凯（王美琴/co-supervisor）
 
 ## Ph.D. visiting students
 
@@ -22,7 +22,7 @@ key: page-members
 - 2022级 李静然（co-supervisor） PIR及应用
 - 2022级 赵旭（co-supervisor） Threshold/Multikey FHE
 - 2022级 巴艳鹏（co-supervisor） 密文计算与检索
-- 
+  
 ## Master students
 
 - 2022级 赵子硕（山东大学） Threshold/Multikey FHE/DRB
