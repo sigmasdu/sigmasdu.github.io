@@ -63,6 +63,7 @@ key: page-members
 ## Internship students
 
 Proximity Test for Proof of Location
+- 2023信息安全竞赛三等奖 韦肖扬等 
 - 2023隐私计算Hackathon二等奖（1/2）韦肖扬、倪晓晗
 - 2022密码技术竞赛三等奖 韦肖扬、倪晓晗、倪佳蔚 (https://PPLP-ABY.github.io)
   
