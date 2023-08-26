@@ -25,10 +25,7 @@ key: page-members
   
 ## Master students
 
-- 2022级 赵子硕（山东大学） Threshold/Multikey FHE/DRB
-- 2022级 丁江（山东大学）PIR与Anonymous Retrival
-- 2022级 李蔚（长安大学）门限ECDSA与DKG
-- 2022级 朱豪（山东理工大学，中交委培）PAKE与Tor
+
 - 2023级 王书超（西安电子科技大学）基于FHE的判定树
 - 2023级 吕英杰（山东大学）门限ECDSA与零知识证明
 - 2023级 耿春秋（中国地质大学）门限Schnorr与零知识证明
@@ -36,7 +33,11 @@ key: page-members
 - 2023级 葛菲（山东大学）PAKE与Anonymous Credential
 - 2023级 杨潇然（新疆大学）FHE与密文计算
 - 2023级 王思旸（山东大学，中交委培）距离计算与PAKE
-
+  
+- 2022级 赵子硕（山东大学） Threshold/Multikey FHE/DRB
+- 2022级 丁江（山东大学）PIR与Anonymous Retrival
+- 2022级 李蔚（长安大学）门限ECDSA与DKG
+- 2022级 朱豪（山东理工大学，中交委培）PAKE与Tor
 
 ## Undergraduate students
 
