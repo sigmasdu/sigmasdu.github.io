@@ -20,6 +20,9 @@ key: page-research
 
 ## Summer Courses
 
-- Selected Topics in Privacy-Enhancing Technology (SQ046104BN/SQ046104FN). Instructor: Zengpeng Li. From 2022 July.
-- Selected Topics in Multiparty Computing (SQ0461049H). Instructor: Hong-Sheng Zhou. Organizer: Zengpeng Li. From 2022 July.
-- Selected Topics in Privacy Data Proprecessing (SQ046104EH). Part 1 Instructor: Willy Susilo and Part II Instructor: Mark Manulis. Organizer: Zengpeng Li and Mei Wang. From 2023 July. 
+- Selected Topics in Privacy-Enhancing Technology (SQ046104BN/SQ046104FN).<br>
+  Instructor: Zengpeng Li. From 2022 July.<br>
+- Selected Topics in Multiparty Computing (SQ0461049H). Organizer: Zengpeng Li. From 2022 July. <br>
+  Instructor: Hong-Sheng Zhou. <br>
+- Selected Topics in Privacy Data Proprecessing (SQ046104EH). Organizer: Zengpeng Li and Mei Wang. From 2023 July.<br>
+  Part 1 Instructor: Willy Susilo and Part II Instructor: Mark Manulis.  
