@@ -4,7 +4,8 @@ title: Seminar
 key: page-seminar
 ---
 
-- 2023 July, Leo Yu Zhang, AI Privacy and Security  
+- 2023 July, Leo Yu Zhang, AI Privacy and Security
+- 2023 July, Hong-Sheng Zhou (VCU), Two-Mode Password-Authenticated Key Exchange
 - 2023 July, Rongxing Lu (XXXX), 
 - 2023 July, 熊虎 (电子科技大学)，
 - 2023 July, 张亮 (海南大学)，
