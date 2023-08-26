@@ -18,7 +18,7 @@ key: page-research
 - [新技术安全（0740028）](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
 
 
-## Summer Courses
+## Summer-School
 
 - Selected Topics in Privacy-Enhancing Technology (SQ046104BN/SQ046104FN).<br>
   Instructor: Zengpeng Li. From 2022 July.<br>
