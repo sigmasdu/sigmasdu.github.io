@@ -28,13 +28,19 @@ key: page-seminar
 2021 Nov, Daniël Reijsbergen (NTU), Probabilistic Proof-of-Stake Protocol  
 2021 Oct, Vishal Sharma (Queen's University, Bealfast),  Evaluating Blockchain Protocols with Abusive Modeling  
 
-## Short-term Course
+## Summer School
 
-2023 July, Mark Manulis (Universität der Bundeswehr München), Private data processing
-2023 July, Willy Susilo (University of Wollongong), Advanced Crypto 
-2023 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation based proof   
-2022 July, Hong-Sheng Zhou (VCU), Advanced Crypto and Multiparty Computing
+- 2023 July, Mark Manulis (Universität der Bundeswehr München), Private data processing
+- 2023 July, Willy Susilo (University of Wollongong), Advanced Crypto 
+- 2023 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation based proof   
+- 2022 July, Hong-Sheng Zhou (VCU), Advanced Crypto and Multiparty Computing
 
 ## Upon coming
 
-2023 Sep, Feng-Hao Liu
+2023 Oct, 罗海宁 (国家发改委)，CNCC2023 沈阳 
+2023 Oct, 王小芳 (哈尔滨工程大学)，CNCC2023 沈阳 
+2023 Oct, 杨波 (陕西师范大学)，CNCC2023 沈阳 
+2023 Oct, 汪定 (南开大学), CNCC2023 沈阳 
+2023 Oct, 张秉晟 (浙江大学), CNCC2023 沈阳 
+2023 Sep, Feng-Hao Liu（Washington State University）
+2023 Oct, Prosanta Gope (University of Sheffield)
