@@ -33,7 +33,6 @@ key: page-members
 - 2023级 葛菲（山东大学）PAKE与Anonymous Credential
 - 2023级 杨潇然（新疆大学）FHE与密文计算
 - 2023级 王思旸（山东大学，中交委培）距离计算与PAKE
-  
 - 2022级 赵子硕（山东大学） Threshold/Multikey FHE/DRB
 - 2022级 丁江（山东大学）PIR与Anonymous Retrival
 - 2022级 李蔚（长安大学）门限ECDSA与DKG
