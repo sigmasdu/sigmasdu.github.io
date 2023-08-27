@@ -60,12 +60,16 @@ key: page-members
 - 2022级 孙烟威 隐私保护分布式账本，山东省区块链研究院工作
 
 
-## Internship students
+## Internship students and Awards
+
+全国密码科普竞赛
+- 全同态加密科普介绍，2023，二等奖，赵子硕、吕英杰、李蔚
+- 隐私信息检索技术科普，2023，三等奖，丁江、朱豪、陈梦佳
 
 Proximity Test for Proof of Location
 - 2023信息安全竞赛三等奖 韦肖扬等 
 - 2023隐私计算Hackathon二等奖（1/2）韦肖扬、倪晓晗
 - 2022密码技术竞赛三等奖 韦肖扬、倪晓晗、倪佳蔚 (https://PPLP-ABY.github.io)
   
-Decentralized Randomness for Proof of Stake
-- 2022信息安全竞赛优胜奖 杨尚华、周世焜、李恒远、刘畅 (https://119.45.125.251/)
+Decentralized Randomness Beacon
+- 2023信息安全竞赛优胜奖 杨尚华、周世焜、李恒远、刘畅 (https://119.45.125.251/)
