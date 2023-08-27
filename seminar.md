@@ -4,16 +4,16 @@ title: Seminar
 key: page-seminar
 ---
 
-- 2023 July, Leo Yu Zhang, AI Privacy and Security
-- 2023 July, Hong-Sheng Zhou (VCU), Two-Mode Password-Authenticated Key Exchange
-- 2023 July, Rongxing Lu (XXXX), 
-- 2023 July, 熊虎 (电子科技大学)，
-- 2023 July, 张亮 (海南大学)，
-- 2023 July, 程池 (中国地质大学 武汉)，格密码协议 
-- 2023 July, 汪定 (南开大学), 口令安全 
-- 2023 July, 张秉晟 (浙江大学), Private Functional Evaluation   
-- 2023 July, 陈东龙 (BNU-HKBU United International College), FPGA   
-- 2023 July, 戴望辰 (之江实验室), FHE via GPU and FPGA
+- 2023 July, Leo Yu Zhang (Griffith University), 探究深度学习中的安全和隐私问题  
+- 2023 July, Hong-Sheng Zhou (VCU), Password-based Authenticated Key Exchange with 2-Mode Security  
+- 2023 July, Rongxing Lu (UNB), Traceable and Privacy-Preserving Worker Selection Scheme with Arbitrary Spatial Ranges in MCS   
+- 2023 July, 熊虎 (电子科技大学), 区块链技术的原理及应用概述  
+- 2023 July, 张亮 (海南大学), 基于属性密码的分布式安全协议研究  
+- 2023 July, 程池 (中国地质大学 武汉), 格密钥封装机制在密钥复用条件下的安全分析  
+- 2023 July, 汪定 (南开大学), 口令安全  
+- 2023 July, 张秉晟 (浙江大学), Multi-Party Private Function Evaluation for RAM    
+- 2023 July, 陈东龙 (BNU-HKBU United International College), AES-GCM中高效Karatsuba多项式乘法算法研究  
+- 2023 July, 戴望辰 (之江实验室), 全同态加密与GPU异构计算  
 - 2023 July, Kaitai Liang (Delft University of Technology), Searchable encryption
 - 2023 July, 杨铮 (西南大学), CPS  
 - 2023 July, Chenglu Jin (CWI, Netherlands), Hardware security 
