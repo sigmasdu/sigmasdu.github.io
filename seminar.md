@@ -45,3 +45,9 @@ key: page-seminar
 - 2023 Oct, 张秉晟 (浙江大学), CNCC2023 沈阳 
 - 2023 Sep, Feng-Hao Liu（Washington State University）
 - 2023 Oct, Prosanta Gope (University of Sheffield)
+
+
+## Services
+- 2023 Aug, 山东区块链研究院与天融信推出密码技术创新应用高级班 https://www.xckfsq.com/index/hzjl/27146.html
+- 2023 June, 区块链推动龙江数字经济发展高级研修班”（黑龙江省级专业技术人才知识更新工程2023年高级研修项目）http://heucfe.hrbeu.edu.cn/2023/0621/c976a310696/page.htm
+- 2022 Dec, 山东省网络安全与数据治理高级研修班 https://new.qq.com/rain/a/20221231A01L1100
