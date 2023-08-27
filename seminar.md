@@ -52,4 +52,4 @@ key: page-seminar
 - 2023 June, [区块链推动龙江数字经济发展高级研修班”（黑龙江省级专业技术人才知识更新工程2023年高级研修项目）](http://heucfe.hrbeu.edu.cn/2023/0621/c976a310696/page.htm)
 - 2023 April, [2022年度隐私计算先锋人物榜单](https://new.qq.com/rain/a/20230418A04WNJ00)
 - 2022 Dec, [山东省网络安全与数据治理高级研修班](https://new.qq.com/rain/a/20221231A01L1100)
-- 2022 Dec, [“量子深度学习的春天是否已来？” | CNCC论坛分享](https://maimai.cn/article/detail?fid=1765404737&efid=Qr86yD0D8Gx3eM3xpkFMCA)
+- 2022 Dec, [量子深度学习的春天是否已来？](https://maimai.cn/article/detail?fid=1765404737&efid=Qr86yD0D8Gx3eM3xpkFMCA)
