@@ -23,11 +23,10 @@ key: page-members
   
 ## Master students
 
-- 2024级 崔浩宇（山东大学）FHE
+- 2024级 崔浩宇（山东大学）FHE与PIR
 - 2024级 周婷婷（山东大学）Remote Attestation
 - 2024级 李路岩（山东大学，中电委陪）Remote Attestation
 - 2024级 杨炳昕（青岛大学，退役）PAKE与Anonymous Credential
-  
 - 2023级 王书超（西安电子科技大学）基于FHE的判定树
 - 2023级 吕英杰（山东大学）门限ECDSA与零知识证明
 - 2023级 耿春秋（中国地质大学）门限Schnorr与零知识证明
@@ -37,8 +36,7 @@ key: page-members
 - 2023级 匡金明（中国矿业大学）Secure Aggregation
 - 2023级 王思旸（山东大学，中交委培）距离计算与PAKE
 - 2023级 李文文（山东大学，中电委培）zkSNARK与Hardware Wallet
-- 2023级 赵石涛（青岛大学，Co-supervisor）Secure Aggregation
-    
+- 2023级 赵石涛（青岛大学，文洁晶/co-supervisor）Secure Aggregation
 - 2022级 赵子硕（山东大学） Threshold/Multikey FHE/DRB
 - 2022级 丁江（山东大学）PIR与Anonymous Retrival
 - 2022级 李蔚（长安大学）门限ECDSA与DKG
@@ -57,7 +55,6 @@ key: page-members
 - 2023级 冯相迪 基于人脸的认证密钥协商，新加坡国立读研
 - 2023级 腰睿 分布式认证加密机制研究，西安比亚迪
 - 2023级 吴亦尘 整形流量，基于不经意消息检索匿名通信
-  
 - 2022级 魏之千 全同态加密，浙江大学读研
 - 2022级 刁廉正 隐私保护近邻检测，山东大学读研
 - 2022级 赵子硕 随机信标，山东大学读研
@@ -85,7 +82,7 @@ Hardware Wallet
 - 山东大学第九届“互联网+”大学生创新创业大赛铜奖，“币安心”区块链钱包，吴柏青、于洁、谢慧琳、刘果嫣、王智颖、杜安心、王一慧、郭子旗、邱思琦、虎玲、牛中原、唐诗
 - 第八届青岛市大学生科技节 - 大学生科技创新大赛一等奖，“币安心” -- 服务于数字人民币的区块链钱包
 
-## Visitor
-- 2022 李静然 PIR及应用
-- 2022 赵旭 Threshold/Multikey FHE
-- 2022 巴艳鹏 密文计算与检索
+## Visitors
+- 2022 李静然（北京邮电大学） PIR及应用
+- 2022 巴艳鹏（中国科技大学） 密文计算与检索
+- 2022 赵旭（中国科技大学） Threshold/Multikey FHE
