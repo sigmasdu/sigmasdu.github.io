@@ -4,11 +4,11 @@ title: Courses
 key: page-research
 ---
 
-## Courses for Undergradutes
+## Courses for Undergraduates
 
 - [网络工程与防御实践 (SD04630270)](https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm)
-- [网络安全法](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
-- [安全多方计算 (SD04630460)](https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm)
+- [网络安全法(SD0630270)](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
+- [安全多方计算 (SD04630460)](https://zengpengli.github.io/mpc)
 - [计算机取证](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
 
 
