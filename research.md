@@ -47,8 +47,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2023
 
 - [新形态伪随机函数研究](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2023.05.002)  
-  李增鹏,王梅,陈梦佳  
-  信息网络安全 (2023)  
+  李增鹏,王梅,陈梦佳. 信息网络安全 (2023)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -71,8 +70,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Security Authentication Protocol for Massive Machine Type Communication in 5G Networks](https://doi.org/10.1155/2023/6086686)  
-  Junfeng Miao, Zhaoshun Wang, Mei Wang, Xiao Feng, Nan Xiao, Xiaoxue Sun, Chenglu Jin.  
-  Wireless Communications & Mobile Computing (2023)  
+  Junfeng Miao, Zhaoshun Wang, Mei Wang, Xiao Feng, Nan Xiao, Xiaoxue Sun, Chenglu Jin.  Wireless Communications & Mobile Computing (2023)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -96,8 +94,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2022
 
 - [PANDA: Lightweight non-interactive privacy-preserving data aggregation for constrained devices](https://www.sciencedirect.com/science/article/abs/pii/S0167739X22000152)  
-  Mei Wang, Kun He, Jing Chen, Ruiying Du, Bingsheng Zhang, Zengpeng Li.  
-  In Future Generation Computer Systems (2022)  
+  Mei Wang, Kun He, Jing Chen, Ruiying Du, Bingsheng Zhang, Zengpeng Li. Future Generation Computer Systems (2022)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -117,8 +114,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Quantum-Safe Round-Optimal Password Authentication for Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9272675)  
-  Zengpeng Li, Ding Wang, Eduardo Morais.  
-  In IEEE Transactions on Dependable and Secure Computing (2022)  
+  Zengpeng Li, Ding Wang, Eduardo Morais. IEEE Transactions on Dependable and Secure Computing (2022)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -135,8 +131,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Achieving One-Round Password-Based Authenticated Key Exchange over Lattices](https://ieeexplore.ieee.org/document/8826379)  
-  Zengpeng Li, Ding Wang.  
-  In IEEE Transactions on Services Computing (2022)  
+  Zengpeng Li, Ding Wang.  IEEE Transactions on Services Computing (2022)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -155,8 +150,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2021
 
 - [Biometrics-Authenticated Key Exchange for Secure Messaging](https://dl.acm.org/doi/10.1145/3460120.3484746)  
-  Mei Wang, Kun He, Jing Chen, Zengpeng Li, Wei Zhao, Ruiying Du.  
-  In Computer and Communications Security (2021)   
+  Mei Wang, Kun He, Jing Chen, Zengpeng Li, Wei Zhao, Ruiying Du.  ACM CCS (2021)   
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -176,8 +170,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
  
 
 - [PriParkRec: Privacy-Preserving Decentralized Parking Recommendation Services](https://www.researchgate.net/publication/346204383_Quantum-Safe_Round-Optimal_Password_Authentication_for_Mobile_Devices?_sg=OUGmCcXIq01s6l6akPZ2t8olIigA8tNgAwF8q9AIVZY90GscO-CX1hzyTd-ca_WTs2crGi6jw5JrTo6w3GrGQq7ZYkYWP3jHszywuTbp.w5GSF97r1gwm28V0CFn3_dTgxROL8WApDAIBhNlzPSaPCCc0UlMidVRlQlkKKRIDtbldpCeBRpd7RaHGBBNJaA)  
-  Zengpeng Li, Mamoun Alazab, Sahil Garg, M. Shamim Hossain.  
-  In IEEE Transactions on Vehicular Technology (2021)  
+  Zengpeng Li, Mamoun Alazab, Sahil Garg, M. Shamim Hossain. IEEE Transactions on Vehicular Technology (2021)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -194,8 +187,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Building Low-Interactivity Multifactor Authenticated Key Exchange for Industrial Internet of Things](https://ieeexplore.ieee.org/document/9139491)  
-  Zengpeng Li, Zheng Yang, Pawel Szalachowski, Jianying Zhou.  
-  IEEE Internet of Things Journal (2021)  
+  Zengpeng Li, Zheng Yang, Pawel Szalachowski, Jianying Zhou. IEEE Internet of Things Journal (2021)  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -212,8 +204,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Towards Achieving Keyword Search over Dynamic Encrypted Cloud Data with Symmetric-Key Based Verification](https://ieeexplore.ieee.org/document/8630039)  
-  Xinrui Ge, Jia Yu, Hanlin Zhang, Chengyu Hu, Zengpeng Li, Zhan Qin, Rong Hao.  
-  In IEEE Transactions on Dependable and Secure Computing (2021).  
+  Xinrui Ge, Jia Yu, Hanlin Zhang, Chengyu Hu, Zengpeng Li, Zhan Qin, Rong Hao. IEEE Transactions on Dependable and Secure Computing (2021).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -232,8 +223,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 
 
 - [基于格的口令散列方案](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHZFZ--gDK-DMWNhX2H80o0YXRmgj-dLd9L9U8cvctUxr&uniplatform=NZKPT)  
-  李增鹏,汪定  
-  中国科学:信息科学,2021,51(08):1375-1390  
+  李增鹏,汪定. 中国科学:信息科学,2021,51(08):1375-1390  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -250,8 +240,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2020
 
 - [Quantum-Safe Round-Optimal Password Authentication for Mobile Devices](https://www.researchgate.net/publication/346204383_Quantum-Safe_Round-Optimal_Password_Authentication_for_Mobile_Devices)  
-  Zengpeng Li, Ding Wang, and Eduardo Morais.  
-  In IEEE Transactions on Dependable and Secure Computing (2020).  
+  Zengpeng Li, Ding Wang, and Eduardo Morais. IEEE Transactions on Dependable and Secure Computing (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -268,8 +257,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Building Low-Interactivity Multi-Factor Authenticated Key Exchange for Industrial Internet-of-Things](https://www.researchgate.net/publication/341083165_Preserving_Data_Privacy_via_Federated_Learning_Challenges_and_Solutions)  
-  Zengpeng Li, Zheng Yang, Pawel Szalachowsk, and Jianying Zhou.  
-  In IEEE Internet of Things Journal (2020).  
+  Zengpeng Li, Zheng Yang, Pawel Szalachowsk, and Jianying Zhou. IEEE Internet of Things Journal (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -286,8 +274,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Preserving Data Privacy via Federated Learning: Challenges and Solutions](https://ieeexplore.ieee.org/document/9055478/)  
-  Zengpeng Li, Vishal Sharma, and Saraju P. Mohanty.  
-  In IEEE Consumer Electronics Magazine (2020).  
+  Zengpeng Li, Vishal Sharma, and Saraju P. Mohanty. IEEE Consumer Electronics Magazine (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -304,8 +291,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Ciphertext-Policy Attribute-Based Proxy Re-Encryption via Constrained PRFs](https://www.sciengine.com/SCIS/doi/10.1007/s11432-019-2856-8)  
-  Zengpeng Li, Vishal Sharma, Chunguang Ma, Chunpeng Ge, and Willy Susilo.  
-  In SCIENCE CHINA Information Sciences (2020).  
+  Zengpeng Li, Vishal Sharma, Chunguang Ma, Chunpeng Ge, and Willy Susilo. SCIENCE CHINA Information Sciences (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -324,8 +310,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Multi-Factor Password-Authenticated Key Exchange via Pythia PRF Service](https://www.techscience.com/cmc/v63n2/38536)  
-  Zengpeng Li, Jiuru Wang, Chang Choi, and Wenyin Zhan.  
-  In Computers, Materials & Continua (2020).  
+  Zengpeng Li, Jiuru Wang, Chang Choi, and Wenyin Zhan. Computers, Materials & Continua (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -344,8 +329,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [SecDedup: Secure Encrypted Data Deduplication With Dynamic Ownership Updating](https://ieeexplore.ieee.org/document/9194768)  
-  Shuguang Zhang, Hequn Xian, Zengpeng Li, Liming Wang.  
-  IEEE Access (2020).  
+  Shuguang Zhang, Hequn Xian, Zengpeng Li, Liming Wang. IEEE Access (2020).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -362,8 +346,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [一种基于对偶Regev加密的门限公钥加密方案](https://journal.bupt.edu.cn/CN/abstract/abstract4653.shtml)  
-  李增鹏,王九如,张问银等  
-  北京邮电大学学报,2020,43(04):83-87.DOI:10.13190/j.jbupt.2019-239.  
+  李增鹏,王九如,张问银. 北京邮电大学学报,2020,43(04):83-87.DOI:10.13190/j.jbupt.2019-239.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -386,8 +369,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2019
 
 - [Achieving One-Round Password-based Authenticated Key Exchange over Lattices](https://www.researchgate.net/publication/335542873_Achieving_One-Round_Password-based_Authenticated_Key_Exchange_over_Lattices)  
-  Zengpeng Li and Ding Wang.  
-  In IEEE Transactions on Services Computing 2019.  
+  Zengpeng Li and Ding Wang. IEEE Transactions on Services Computing 2019.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -404,8 +386,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Revisiting post-quantum hash proof systems over lattices for Internet of Thing authentications](https://www.researchgate.net/publication/336450331_Revisiting_post-quantum_hash_proof_systems_over_lattices_for_Internet_of_Thing_authentications)  
-  Zengpeng Li, Jiuru Wang, and Wenyin Zhang.  
-  In Journal of Ambient Intelligence and Humanized Computing (2019).  
+  Zengpeng Li, Jiuru Wang, and Wenyin Zhang. Journal of Ambient Intelligence and Humanized Computing (2019).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -421,8 +402,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Efficient oblivious transfer construction via multiple bits dual-mode cryptosystem for secure selection in the cloud](https://www.researchgate.net/publication/331241984_Efficient_oblivious_transfer_construction_via_multiple_bits_dual-mode_cryptosystem_for_secure_selection_in_the_cloud?_sg=cmgzHQWg2IckyUEnusgOiAfsHTasfqfaDvyGgOFNtNlSMipCDjJPiAVOzei6VRLG7FZPsch1HAbyXR-DWkkrBonTQ2eS8NaZ78TvKEG9.6lWJio5ljjP7bkFxVms8QQ5dNQOpmjXkXn9wHIsM1NUpfuscbB4thdDj33ySigFE2PcPg6iZLJJiXekHPdosCw)  
-  Zengpeng Li, Chunguang Ma, Minghao Zhao, and Chang Choi.  
-  In Journal of the Chinese Institute of Engineers (2019).  
+  Zengpeng Li, Chunguang Ma, Minghao Zhao, and Chang Choi. Journal of the Chinese Institute of Engineers (2019).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -443,8 +423,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [抵抗自适应密钥恢复攻击的层级全同态加密](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoC8rj65ZR0pFE-DZ9T3k050BspoxlOKTFkcAYnWKsTDl&uniplatform=NZKPT)  
-  李增鹏,马春光,赵明昊  
-  计算机研究与发展,2019,56(03):496-507.  
+  李增鹏,马春光,赵明昊. 计算机研究与发展,2019,56(03):496-507.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -463,8 +442,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2018
 
 - [Oblivious Transfer via Lossy Encryption from Lattice-Based Cryptography](https://www.researchgate.net/publication/327391129_Oblivious_Transfer_via_Lossy_Encryption_from_Lattice-Based_Cryptography)  
-  Zengpeng Li, Can Xiang, and Chenyu Wang.  
-  In Wireless Communications and Mobile Computing 2018: 5973285:1-5973285:11 (2018).  
+  Zengpeng Li, Can Xiang, and Chenyu Wang. Wireless Communications and Mobile Computing 2018: 5973285:1-5973285:11 (2018).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -482,8 +460,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Multi-Key FHE on Multi-Bit Messages](https://link.springer.com/content/pdf/10.1007/s11432-017-9206-y.pdf)  
-  Zengpeng Li, Chunguang Ma and Hong-Sheng Zhou.  
-  In SCIENCE CHINA Information Sciences 2018.  
+  Zengpeng Li, Chunguang Ma and Hong-Sheng Zhou. SCIENCE CHINA Information Sciences 2018.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -500,8 +477,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Two-Round PAKE Protocol over Lattices Without NIZK](https://www.researchgate.net/publication/331228008_Two-Round_PAKE_Protocol_over_Lattices_Without_NIZK_14th_International_Conference_Inscrypt_2018_Fuzhou_China_December_14-17_2018_Revised_Selected_Papers)  
-  Zengpeng Li and Ding Wang.  
-  In Inscrypt 2018 (Best Paper Award (2/81)).  
+  Zengpeng Li and Ding Wang. Inscrypt 2018 (Best Paper Award (2/81)).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -522,8 +498,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2017
 
 - [Achieving Multi-Hop PRE via Branching Program](https://ieeexplore.ieee.org/document/8070989/)  
-  Zengpeng Li, Chunguang Ma and Ding Wang.  
-  In IEEE Transactions on Cloud Computing, 2017.  
+  Zengpeng Li, Chunguang Ma and Ding Wang. IEEE Transactions on Cloud Computing, 2017.  
   <details>
    <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -539,8 +514,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Leakage Resilient Leveled FHE on Multiple Bit Message](https://ieeexplore.ieee.org/document/7979612/)  
-  Zengpeng Li, Chunguang Ma and Ding Wang.  
-  In IEEE Transactions on Big Data, 2017.  
+  Zengpeng Li, Chunguang Ma and Ding Wang. IEEE Transactions on Big Data, 2017.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -556,8 +530,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Towards Multi-Hop Homomorphic Identity-Based Proxy Re-Encryption via Branching Program](https://ieeexplore.ieee.org/abstract/document/8012380)  
-  Zengpeng Li, Chunguang Ma and Ding Wang.  
-  In IEEE Access 2017.  
+  Zengpeng Li, Chunguang Ma and Ding Wang. IEEE Access 2017.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -574,8 +547,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Toward single-server private information retrieval protocol via learning with errors](https://www.researchgate.net/publication/311589741_Toward_single-server_private_information_retrieval_protocol_via_learning_with_errors)  
-  Zengpeng Li, Chunguang Ma, Ding Wang, and Gang Du.  
-  In Journal of Information Security and Applications. 34: 280-284 (2017).  
+  Zengpeng Li, Chunguang Ma, Ding Wang, and Gang Du. Journal of Information Security and Applications. 34: 280-284 (2017).  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -593,8 +565,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Toward Proxy Re-encryption From Learning with Errors in the Exponent](https://ieeexplore.ieee.org/document/8029503/)  
-  Zengpeng Li, Chunguang Ma, Ding Wang, Minghao Zhao, Qian Zhao and Lu Zhou.  
-  In Trustcom 2017.  
+  Zengpeng Li, Chunguang Ma, Ding Wang, Minghao Zhao, Qian Zhao and Lu Zhou.  Trustcom 2017.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -608,8 +579,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [全同态加密研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i0-kJR0HYBJ80QN9L51zrP5OXi0gz2N2x4MEAA8sR0vkE6YYywPhp53-n1XnjG-Dt&uniplatform=NZKPT)  
-  李增鹏,马春光,周红生  
-  密码学报,2017,4(06):561-578.DOI:10.13868/j.cnki.jcr.000208.  
+  李增鹏,马春光,周红生. 密码学报,2017,4(06):561-578.DOI:10.13868/j.cnki.jcr.000208.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -625,8 +595,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [两类基于容错学习的多比特格公钥加密方案](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iAEhECQAQ9aTiC5BjCgn0Rjc-0zcVP9Lyztn0gTWvTRl2kYG99XMnMTrB_c6Jl0Bb&uniplatform=NZKPT)  
-  李增鹏,马春光,张磊等  
-  信息网络安全,2017,No.202(10):1-7.  
+  李增鹏,马春光,张磊. 信息网络安全,2017,No.202(10):1-7.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -651,8 +620,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### 2016
 
 - [Multi-bit Leveled Homomorphic Encryption via Dual.LWE-Based](https://link.springer.com/chapter/10.1007/978-3-319-54705-3_14)  
-  Zengpeng Li, Chunguang Ma, Eduardo Morais and Gang Du.  
-  In Inscrypt 2016.  
+  Zengpeng Li, Chunguang Ma, Eduardo Morais and Gang Du. In Inscrypt 2016.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -670,8 +638,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Dual LWE-Based Fully Homomorphic Encryption with Errorless Key Switching](https://link.springer.com/chapter/10.1007/978-3-319-54705-3_14)  
-  Zengpeng Li, Chunguang Ma, Gang Du, Weiping Ouyang.  
-  In ICPADS 2016.  
+  Zengpeng Li, Chunguang Ma, Gang Du, Weiping Ouyang. ICPADS 2016.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
@@ -685,8 +652,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   </details>
 
 - [Preventing Adaptive Key Recovery Attacks on the GSW Levelled Homomorphic Encryption Scheme](https://link.springer.com/chapter/10.1007/978-3-319-54705-3_14)  
-  Zengpeng Li, Steven D. Galbraith, and Chunguang Ma.  
-  In Provsec 2016.  
+  Zengpeng Li, Steven D. Galbraith, and Chunguang Ma. Provsec 2016.  
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">  
