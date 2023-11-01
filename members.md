@@ -19,6 +19,8 @@ key: page-members
 
 ## Ph.D. visiting students
 
+
+- 2021级 鹿鹏飞（co-supervisor）全同态加密与隐私信息检索
 - 2020级 廖光宇（co-supervisor）格密码与门限签名
   
 ## Master students
