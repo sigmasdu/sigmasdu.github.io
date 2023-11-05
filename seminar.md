@@ -3,7 +3,14 @@ layout: article
 title: Seminar
 key: page-seminar
 ---
-
+- 2023 Nov, 薛海洋 (香港理工大学)，Threshold ECDSA
+- 2023 Nov, Chenglu Jin (CWI, Netherlands), Remote Attestation 
+- 2023 Oct, 罗海宁 (国家发改委)，CNCC2023 沈阳 
+- 2023 Oct, 王小芳 (哈尔滨工程大学)，CNCC2023 沈阳 
+- 2023 Oct, 杨波 (陕西师范大学)，CNCC2023 沈阳 
+- 2023 Oct, 汪定 (南开大学), CNCC2023 沈阳 
+- 2023 Oct, 张秉晟 (浙江大学), CNCC2023 沈阳
+- 2023 Oct, 李宏博 (华南农业大学), 可搜索加密 
 - 2023 July, Leo Yu Zhang (Griffith University), 探究深度学习中的安全和隐私问题  
 - 2023 July, Hong-Sheng Zhou (VCU), Password-based Authenticated Key Exchange with 2-Mode Security  
 - 2023 July, Rongxing Lu (UNB), Traceable and Privacy-Preserving Worker Selection Scheme with Arbitrary Spatial Ranges in MCS   
@@ -38,13 +45,8 @@ key: page-seminar
 
 ## Upon coming
 
-- 2023 Oct, 罗海宁 (国家发改委)，CNCC2023 沈阳 
-- 2023 Oct, 王小芳 (哈尔滨工程大学)，CNCC2023 沈阳 
-- 2023 Oct, 杨波 (陕西师范大学)，CNCC2023 沈阳 
-- 2023 Oct, 汪定 (南开大学), CNCC2023 沈阳 
-- 2023 Oct, 张秉晟 (浙江大学), CNCC2023 沈阳 
-- 2023 Sep, Feng-Hao Liu（Washington State University）
-- 2023 Oct, Prosanta Gope (University of Sheffield)
+- 2023, Feng-Hao Liu（Washington State University）
+- 2023, Prosanta Gope (University of Sheffield)
 
 
 ## Services and News
