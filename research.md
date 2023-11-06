@@ -1,4 +1,4 @@
-![image](https://github.com/sigmasdu/sigmasdu.github.io/assets/3256616/7c3911e8-c648-48a9-a869-df41f9fe3625)![image](https://github.com/sigmasdu/sigmasdu.github.io/assets/3256616/157945b1-9625-4a3e-b04b-3e2f9a444010)---
+---
 layout: article
 title: Research
 show_title: false
