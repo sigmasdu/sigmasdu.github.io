@@ -102,7 +102,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
       </div>
   </details>
 
-- [Retrieval Transformation: Dynamic Searchable Symmetric Encryption With Strong Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155288)  
+- [Retrieval Transformation: Dynamic Searchable Symmetric Encryption With Strong Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10287254)  
   Guiyun Qin, Pengtao Liu, Chengyu Hu, Zengpeng Li, Shanqing Guo. IEEE Systems Journal(2023)
   <details>
     <summary style="background-color:#fff">BibTex</summary>
