@@ -42,9 +42,11 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 
 
 ### ongoing
-- Funder: Future-Proofed Decentralized Random Beacon
+- GreatSage: Securing Authentication with Anonymous Access Tokens
 - PADRE: Privacy-Aware Decentralized Randomness
 - KAME: Privacy-Preserving Proximity Test
+- MPC-Friendly Key (and Randomness) Generation for Dynamic-Committee
+- Robust Threshold ECDSA
 - Blind-Envoy: Magical Private Message Service
 
 ### 2023
