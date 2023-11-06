@@ -48,7 +48,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 - Blind-Envoy: Magical Private Message Service
 
 ### 2023
-- [Funder: Future-Proof Unbiased Decentralized Randomness](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297306&tag=1)
+- [Funder: Future-Proof Unbiased Decentralized Randomness](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297306&tag=1)  
   Zengpeng Li, Mei Wang, Teik Guan Tan, Jianying Zhou.IEEE Internet of Things Journal(2023)
   <details>
     <summary style="background-color:#fff">BibTex</summary>
@@ -66,7 +66,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
       </div>
   </details>
 
-- [QR-PUF: Design and Implementation of a RFID-Based Secure Inpatient Management System Using XOR-Arbiter-PUF and QR-Code](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9807448)
+- [QR-PUF: Design and Implementation of a RFID-Based Secure Inpatient Management System Using XOR-Arbiter-PUF and QR-Code](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9807448)  
   Prosanta Gope, Yuening Wang, Zengpeng Li, Biplab Sikdar. IEEE Transactions on Network Science and Engineering(2023)
   <details>
     <summary style="background-color:#fff">BibTex</summary>
@@ -84,7 +84,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
       </div>
   </details>
 
-- [Controlled Search: Building Inverted-Index PEKS with Less Leakage in Multi-User Setting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155288)
+- [Controlled Search: Building Inverted-Index PEKS with Less Leakage in Multi-User Setting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155288)  
   Guiyun Qin, Pengtao Liu, Chengyu Hu, Zengpeng Li, Shanqing Guo. IEEE Internet of Things Journal(2023)
   <details>
     <summary style="background-color:#fff">BibTex</summary>
@@ -102,7 +102,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
       </div>
   </details>
 
-- [Retrieval Transformation: Dynamic Searchable Symmetric Encryption With Strong Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155288)
+- [Retrieval Transformation: Dynamic Searchable Symmetric Encryption With Strong Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155288)  
   Guiyun Qin, Pengtao Liu, Chengyu Hu, Zengpeng Li, Shanqing Guo. IEEE Systems Journal(2023)
   <details>
     <summary style="background-color:#fff">BibTex</summary>
