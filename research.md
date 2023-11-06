@@ -1,4 +1,4 @@
----
+![image](https://github.com/sigmasdu/sigmasdu.github.io/assets/3256616/7c3911e8-c648-48a9-a869-df41f9fe3625)![image](https://github.com/sigmasdu/sigmasdu.github.io/assets/3256616/157945b1-9625-4a3e-b04b-3e2f9a444010)---
 layout: article
 title: Research
 show_title: false
@@ -745,3 +745,11 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
     }<br> 
     </div>
   </details>
+
+
+
+## Patent
+- 一种基于BFV全同态加密算法的近邻检测方法及系统. 申请号：ZL 2023 1 1161324.9
+- 基于匿名凭证的身份认证方法、设备及介质. 申请号：ZL 2023 1 1073298.4
+- 基于非交互分布式密钥的门限ECDSA签名方法及系统. 申请号：ZL 2023 1 1303452.2
+
