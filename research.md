@@ -49,7 +49,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 
 ### 2023
 - [Funder: Future-Proof Unbiased Decentralized Randomness](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297306&tag=1)  
-  Zengpeng Li, Mei Wang, Teik Guan Tan, Jianying Zhou.IEEE Internet of Things Journal(2023)
+  Zengpeng Li, Mei Wang, Teik Guan Tan, Jianying Zhou. IEEE Internet of Things Journal(2023)
   <details>
     <summary style="background-color:#fff">BibTex</summary>
       <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
