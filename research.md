@@ -48,6 +48,77 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 - Blind-Envoy: Magical Private Message Service
 
 ### 2023
+- [Funder: Future-Proof Unbiased Decentralized Randomness](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297306&tag=1)
+  Zengpeng Li, Mei Wang, Teik Guan Tan, Jianying Zhou.IEEE Internet of Things Journal(2023)
+  <details>
+    <summary style="background-color:#fff">BibTex</summary>
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
+      @ARTICLE{10297306,<br>
+      author={Li, Zengpeng and Wang, Mei and Tan, Teik Guan and Zhou, Jianying},<br>
+      journal={IEEE Internet of Things Journal}, <br>
+      title={Funder: Future-Proof Unbiased Decentralized Randomness}, <br>
+      year={2023},<br>
+      volume={},<br>
+      number={},<br>
+      pages={1-1},<br>
+      doi={10.1109/JIOT.2023.3327733}<br>
+        }<br>
+      </div>
+  </details>
+
+- [QR-PUF: Design and Implementation of a RFID-Based Secure Inpatient Management System Using XOR-Arbiter-PUF and QR-Code](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9807448)
+  Prosanta Gope, Yuening Wang, Zengpeng Li, Biplab Sikdar. IEEE Transactions on Network Science and Engineering(2023)
+  <details>
+    <summary style="background-color:#fff">BibTex</summary>
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
+      @ARTICLE{9807448,<br>
+      author={Gope, Prosanta and Wang, Yuening and Li, Zengpeng and Sikdar, Biplab},<br>
+      journal={IEEE Transactions on Network Science and Engineering}, <br>
+      title={QR-PUF: Design and Implementation of a RFID-Based Secure Inpatient Management System Using XOR-Arbiter-PUF and QR-Code}, <br>
+      year={2023},<br>
+      volume={10},<br>
+      number={5},<br>
+      pages={2637-2650},<br>
+      doi={10.1109/TNSE.2022.3186478}<br>
+        }<br>
+      </div>
+  </details>
+
+- [Controlled Search: Building Inverted-Index PEKS with Less Leakage in Multi-User Setting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155288)
+  Guiyun Qin, Pengtao Liu, Chengyu Hu, Zengpeng Li, Shanqing Guo. IEEE Internet of Things Journal(2023)
+  <details>
+    <summary style="background-color:#fff">BibTex</summary>
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
+      @ARTICLE{10155288,<br>
+      author={Qin, Guiyun and Liu, Pengtao and Hu, Chengyu and Li, Zengpeng and Guo, Shanqing},<br>
+      journal={IEEE Internet of Things Journal}, <br>
+      title={Controlled Search: Building Inverted-Index PEKS with Less Leakage in Multi-User Setting}, <br>
+      year={2023},<br>
+      volume={},<br>
+      number={},<br>
+      pages={1-1},<br>
+      doi={10.1109/JIOT.2023.3287353}<br>
+        }<br>
+      </div>
+  </details>
+
+- [Retrieval Transformation: Dynamic Searchable Symmetric Encryption With Strong Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155288)
+  Guiyun Qin, Pengtao Liu, Chengyu Hu, Zengpeng Li, Shanqing Guo. IEEE Systems Journal(2023)
+  <details>
+    <summary style="background-color:#fff">BibTex</summary>
+      <div style="background-color:#f8fbfc;padding-left:20px;padding-top:5px;padding-bottom:5px;padding-right:20px;">
+      @ARTICLE{10287254,<br>
+      author={Qin, Guiyun and Liu, Pengtao and Hu, Chengyu and Li, Zengpeng and Guo, Shanqing},<br>
+      journal={IEEE Systems Journal}, <br>
+      title={Retrieval Transformation: Dynamic Searchable Symmetric Encryption With Strong Security}, <br>
+      year={2023},<br>
+      volume={},<br>
+      number={},<br>
+      pages={1-12},<br>
+      doi={10.1109/JSYST.2023.3288052}<br>
+        }<br>
+      </div>
+  </details>
 
 - [新形态伪随机函数研究](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2023.05.002)  
   李增鹏,王梅,陈梦佳. 信息网络安全 (2023)  
