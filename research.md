@@ -11,6 +11,8 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ### ongoing
 - National Key Research and Development Program of China (grant No. 2022YFB2701700)<br>
 - National Key Research and Development Program of China (grant No. 2021YFA1000600)<br>
+- Department of Science&Technology of Shandong Province (grant No.SYS202201)<br>
+- Quan Cheng Laboratory (grant No. QCLZD202302)<br>
 - 基于隐私增强技术的口令安全认证机制研究 (Research on Password-based Authentication)<br>
   Natural Science Foundation of China (grant No. 62302271)
 - 基于格密码的分布式随机信标生成机制研究 (Research on Distributed Random Beacon over Lattices)<br>
@@ -19,6 +21,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   Natural Science Foundation of Shandong Province, China (grant No. ZR2023QF088)
 - 去中心化随机信标生成关键技术研究 (Cryptographic Techniques for Decentralized Randomness Generation)<br>
   Natural Science Foundation of Qingdao, China (grant No. 23-2-1-152-zyyd-jch)
+  
 
 ### done
 - 基于格基全同态加密的密文安全计算研究 (Research on Secure Computing of Encrypted Data via Lattice-Based Fully Homomorphic Encryption) No. 61802214
