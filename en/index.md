@@ -5,7 +5,8 @@ key: page-home
 
 ## Overview
 
-&ensp;&ensp;Sigma@SDU is a research group centered around primitives and protocols of public key cryptography, led by Prof. Zengpeng Li and Prof. Mei Wang at the School of Cyber Science and Technology, Shandong University, and is part of the MoE Key Laboratory of Cryptologic Technology and Information Security.
+&ensp;&ensp;
+Our research group centered around Secure intelligent computations and magical applications (or Sigma@SDU) including real-world cryptographic primitives and protocols, led by Prof. Zengpeng Li and Prof. Mei Wang at the School of Cyber Science and Technology, Shandong University, and is part of the MoE Key Laboratory of Cryptologic Technology and Information Security.
 
 &ensp;&ensp;Research projects at Sigma@SDU focus on real-world problems about security and privacy, including secure multiparty computation, identification and authentication, verifiable computation, and blockchain technology. Our research has been supported by various competitive grants from the National Natural Science Foundation of China, National Key Research and Development Program of the Ministry of Science and Technology, etc.
 
