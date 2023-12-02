@@ -3,6 +3,8 @@ layout: article
 title: Seminar
 key: page-seminar
 ---
+- 2023 Nov, 雷虹 (海南大学)，DID 
+- 2023 Nov, 张磊 (南湖实验室)，机密计算+Remote Attestation 
 - 2023 Nov, 薛海洋 (香港理工大学)，Threshold ECDSA
 - 2023 Nov, Chenglu Jin (CWI, Netherlands), Remote Attestation 
 - 2023 Oct, 罗海宁 (国家发改委)，CNCC2023 沈阳 
@@ -29,27 +31,28 @@ key: page-seminar
 - 2022 Nov, Eduardo Morais (Protocol Lab), zkSNARK  
 - 2022 Oct, Prosanta Gope (University of Sheffield), PUF-based Authentication  
 - 2022 July, Hong-Sheng Zhou (VCU), MPC-Course (two weeks)  
-- 2022 July, Zheng Yang (Southwest University), Lightweitht Authentication for CPS  
-- 2022 July, Chenglu Jin (CWI, Netherlands), Hardware securtiy  
+- 2022 July, Zheng Yang (Southwest University), Lightweight Authentication for CPS  
+- 2022 July, Chenglu Jin (CWI, Netherlands), Hardware security  
 - 2022 July, Leo Yu Zhang, AI Privacy and Security  
 - 2022 March, Yan Bo Ti (DSO, Singapore), Isogensy-based crypto  
 - 2021 Nov, Daniël Reijsbergen (NTU), Probabilistic Proof-of-Stake Protocol  
-- 2021 Oct, Vishal Sharma (Queen's University, Bealfast),  Evaluating Blockchain Protocols with Abusive Modeling  
+- 2021 Oct, Vishal Sharma (Queen's University, Belfast),  Evaluating Blockchain Protocols with Abusive Modeling  
 
 ## Summer School
 
 - 2023 July, Mark Manulis (Universität der Bundeswehr München), Private data processing
 - 2023 July, Willy Susilo (University of Wollongong), Advanced Crypto 
-- 2023 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation based proof   
+- 2023 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation-based proof   
 - 2022 July, Hong-Sheng Zhou (VCU), Advanced Crypto and Multiparty Computing
 
 ## Upon coming
-
+- 2023, Ivan Homoliak (Brno University of Technology)
 - 2023, Feng-Hao Liu（Washington State University）
 - 2023, Prosanta Gope (University of Sheffield)
 
 
 ## Services and News
+- 2023 Nov, [《2023全球隐私计算报告》在第二届全球数贸会上正式发布](https://mp.weixin.qq.com/s/gSo7yRiRUUmn4XePf16l5w)
 - 2023 Aug, [山东区块链研究院与天融信推出密码技术创新应用高级班](https://www.xckfsq.com/index/hzjl/27146.html)
 - 2023 June, [区块链推动龙江数字经济发展高级研修班”（黑龙江省级专业技术人才知识更新工程）](http://heucfe.hrbeu.edu.cn/2023/0621/c976a310696/page.htm)
 - 2023 April, [2022年度隐私计算先锋人物榜单](https://new.qq.com/rain/a/20230418A04WNJ00)
