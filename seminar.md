@@ -46,9 +46,11 @@ key: page-seminar
 - 2022 July, Hong-Sheng Zhou (VCU), Advanced Crypto and Multiparty Computing
 
 ## Upon coming
+
 - 2023, Ivan Homoliak (Brno University of Technology)
-- 2023, Feng-Hao Liu（Washington State University）
-- 2023, Prosanta Gope (University of Sheffield)
+- 2023, Sherman Chow (Chinese University of Hong Kong)
+- 2024, Feng-Hao Liu（Washington State University）
+- 2024, Prosanta Gope (University of Sheffield)
 
 
 ## Services and News
