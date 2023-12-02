@@ -53,9 +53,9 @@ key: page-seminar
 
 ## Services and News
 - 2023 Nov, [《2023全球隐私计算报告》在第二届全球数贸会上正式发布](https://mp.weixin.qq.com/s/gSo7yRiRUUmn4XePf16l5w)
-- 2023 Nov, [https://mp.weixin.qq.com/s/9dSMimACrtqBwX0R7N243A](https://mp.weixin.qq.com/s/9dSMimACrtqBwX0R7N243A)
+- 2023 Nov, [CNCC论坛分享 | 数据合规与治理：如何从皇帝的新衣到金钟罩铁布衫？](https://mp.weixin.qq.com/s/9dSMimACrtqBwX0R7N243A)
 - 2023 Aug, [山东区块链研究院与天融信推出密码技术创新应用高级班](https://www.xckfsq.com/index/hzjl/27146.html)
 - 2023 June, [区块链推动龙江数字经济发展高级研修班”（黑龙江省级专业技术人才知识更新工程）](http://heucfe.hrbeu.edu.cn/2023/0621/c976a310696/page.htm)
 - 2023 April, [2022年度隐私计算先锋人物榜单](https://new.qq.com/rain/a/20230418A04WNJ00)
 - 2022 Dec, [山东省网络安全与数据治理高级研修班](https://new.qq.com/rain/a/20221231A01L1100)
-- 2022 Dec, [量子深度学习的春天是否已来？](https://maimai.cn/article/detail?fid=1765404737&efid=Qr86yD0D8Gx3eM3xpkFMCA)
+- 2022 Dec, [CNCC论坛分享 | 量子深度学习的春天是否已来？](https://maimai.cn/article/detail?fid=1765404737&efid=Qr86yD0D8Gx3eM3xpkFMCA)
