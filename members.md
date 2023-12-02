@@ -84,7 +84,11 @@ Proximity Test for Proof of Location
 - 2022密码技术竞赛三等奖 韦肖扬、倪晓晗、倪佳蔚 (https://PPLP-ABY.github.io)
   
 Decentralized Randomness Beacon
+- 2023密码技术竞赛二等奖 赵子硕、王书超、李宣仪
 - 2023信息安全竞赛优胜奖 杨尚华、周世焜、李恒远、刘畅 (https://119.45.125.251/)
+
+Anonymous Credentail and Communication
+- 2023密码技术竞赛三等奖 朱豪 杨潇然 葛菲 
 
 Hardware Wallet
 - 山东大学第九届“互联网+”大学生创新创业大赛铜奖，“币安心”区块链钱包，吴柏青、于洁、谢慧琳、刘果嫣、王智颖、杜安心、王一慧、郭子旗、邱思琦、虎玲、牛中原、唐诗
