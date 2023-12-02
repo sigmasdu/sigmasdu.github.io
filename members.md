@@ -14,7 +14,7 @@ key: page-members
 ## Ph.D. students
 
 - 2023级 陈梦佳 FHE与PIR
-- 2023级 魏英凯（王美琴/co-supervisor）
+- 2023级 魏英凯（co-supervisor）
 - 2023级 程向军（中交委培）Proximity
 
 ## Ph.D. visiting students
