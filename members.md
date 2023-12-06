@@ -28,9 +28,9 @@ key: page-members
 - 2024级 崔浩宇（山东大学）FHE与PIR Acceleration
 - 2024级 周婷婷（山东大学）Remote Attestation
 - 2024级 王浩（中国石油大学）PAKE与Anonymous Credential
-- 2024级 李路岩（山东大学，中电委陪）Remote Attestation
+- 2024级 李路岩（山东大学，中电委培）Remote Attestation
 - 2024级 杨炳昕（青岛大学，退役）PAKE与Anonymous Credential
-- 2024级 王珂（郑州大学，中电委陪）Federated Learning & Secure Aggregation
+- 2024级 王珂（郑州大学，中电委培）Federated Learning & Secure Aggregation
 - 2023级 王书超（西安电子科技大学）FHE Acceleration
 - 2023级 吕英杰（山东大学）门限ECDSA与零知识证明
 - 2023级 耿春秋（中国地质大学）门限Schnorr与零知识证明
