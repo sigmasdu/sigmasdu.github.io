@@ -3,6 +3,7 @@ layout: article
 title: Seminar
 key: page-seminar
 ---
+- 2024 Dec, Ivan Homoliak (Brno University of Technology in Czech), Crypto-wallets and SmartOTPs
 - 2023 Nov, 雷虹 (海南大学)，DID 
 - 2023 Nov, 张磊 (南湖实验室)，机密计算+Remote Attestation 
 - 2023 Nov, 薛海洋 (香港理工大学)，Threshold ECDSA
