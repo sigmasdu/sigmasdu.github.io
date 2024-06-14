@@ -4,12 +4,12 @@ title: Seminar
 key: page-seminar
 ---
 
-- 2024 June, 刘健（浙江大学），PIR 
-- 2024 May, 李漓春 (阿里)，隐私计算
-- 2024 Apr, 汤殿华（30所），PIR
+- 2024 June, 刘健 (浙江大学), PIR 
+- 2024 May, 李漓春 (阿里), 隐私计算
+- 2024 Apr, 汤殿华 (30所), PIR
 - 2024 Apr, Sofia Ceil (Brave), DiStefano: TLS
-- 2024 Apr, Feng Hao(Warwick Uni), Owl:PAKE.
-- 2024 Jan, Shujie Cui(莫那什大学)， TEE
+- 2024 Apr, Feng Hao (Warwick Uni), Owl: PAKE.
+- 2024 Jan, Shujie Cui (莫那什大学)， TEE
 - 2023 Dec, Ivan Homoliak (Brno University of Technology in Czech), Crypto-wallets and SmartOTPs
 - 2023 Nov, 雷虹 (海南大学)，DID 
 - 2023 Nov, 张磊 (南湖实验室)，机密计算+Remote Attestation 
