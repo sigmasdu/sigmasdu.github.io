@@ -18,12 +18,11 @@ key: page-members
 - 2023级 陈梦佳（中交委培）
 - 2023级 魏英凯（co-supervisor）
 - 2023级 程向军（中交委培）
-
+- 2021级 鹿鹏飞（co-supervisor）
+  
 ## Ph.D. visiting students
 
-
-- 2021级 鹿鹏飞（co-supervisor）全同态加密与隐私信息检索
-- 2020级 廖光宇（co-supervisor）格密码与门限签名
+- 2020级 廖光宇（co-supervisor）
   
 ## Master students
 
