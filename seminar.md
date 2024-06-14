@@ -3,7 +3,14 @@ layout: article
 title: Seminar
 key: page-seminar
 ---
-- 2024 Dec, Ivan Homoliak (Brno University of Technology in Czech), Crypto-wallets and SmartOTPs
+
+- 2024 June, 刘健（浙江大学），PIR 
+- 2024 May, 李漓春 (阿里)，隐私计算
+- 2024 Apr, 汤殿华（30所），PIR
+- 2024 Apr, Sofia Ceil (Brave), DiStefano: TLS
+- 2024 Apr, Feng Hao(Warwick Uni), Owl:PAKE.
+- 2024 Jan, Shujie Cui(莫那什大学)， TEE
+- 2023 Dec, Ivan Homoliak (Brno University of Technology in Czech), Crypto-wallets and SmartOTPs
 - 2023 Nov, 雷虹 (海南大学)，DID 
 - 2023 Nov, 张磊 (南湖实验室)，机密计算+Remote Attestation 
 - 2023 Nov, 薛海洋 (香港理工大学)，Threshold ECDSA
@@ -41,6 +48,9 @@ key: page-seminar
 
 ## Summer School
 
+- 2024 July, Mark Manulis (Universität der Bundeswehr München), Private data processing
+- 2024 July, Willy Susilo (University of Wollongong), Advanced Crypto 
+- 2024 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation-based proof   
 - 2023 July, Mark Manulis (Universität der Bundeswehr München), Private data processing
 - 2023 July, Willy Susilo (University of Wollongong), Advanced Crypto 
 - 2023 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation-based proof   
@@ -48,10 +58,7 @@ key: page-seminar
 
 ## Upon coming
 
-- 2023, Ivan Homoliak (Brno University of Technology)
-- 2023, Sherman Chow (Chinese University of Hong Kong)
-- 2024, Feng-Hao Liu（Washington State University）
-- 2024, Prosanta Gope (University of Sheffield)
+- 2024, Sherman Chow (Chinese University of Hong Kong)
 
 
 ## Services and News
