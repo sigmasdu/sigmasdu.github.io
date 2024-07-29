@@ -43,7 +43,7 @@ key: page-members
 - 2023级 匡金明（中国矿业大学）Secure Aggregation与判定树
 - 2023级 王思旸（山东大学，中交委培）距离计算与PAKE
 - 2023级 李文文（山东大学，中电委培）zkSNARK与Hardware Wallet
-- 2023级 赵石涛（青岛大学，文洁晶/co-supervisor）Secure Aggregation
+- 2023级 赵石涛（青岛大学，co-supervisor）Secure Aggregation
 - 2022级 赵子硕（山东大学） Threshold/Multikey FHE/DRB
 - 2022级 丁江（山东大学）PIR与Anonymous Retrival
 - 2022级 李蔚（长安大学）门限ECDSA与DKG
