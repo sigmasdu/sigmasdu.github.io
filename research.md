@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b71acd69-0919-4007-aa7f-b65d820fc409)![image](https://github.com/user-attachments/assets/0d81f9fe-1db0-4f5f-9d94-6255925dca38)![image](https://github.com/user-attachments/assets/f30dc5a7-b114-4945-b4c1-2715f67980db)![image](https://github.com/user-attachments/assets/a98a68d9-c064-4b01-89da-a58594135908)![image](https://github.com/user-attachments/assets/8a6d8a94-f791-4a65-83b5-67cf9fc33ff6)![image](https://github.com/user-attachments/assets/878af578-1a71-4a6d-b94d-6f24a876da70)![image](https://github.com/user-attachments/assets/2c4244f8-718d-4354-a701-2de38b329990)![image](https://github.com/user-attachments/assets/5bb8df3b-1824-416f-8e87-c2d76b0643d4)![image](https://github.com/user-attachments/assets/1874d669-e32c-4e4f-ab93-12fc8776132b)![image](https://github.com/user-attachments/assets/3f012580-f15a-45fc-9bde-37690f2b16c4)![image](https://github.com/user-attachments/assets/aac34ece-4371-4c01-821c-68515616e551)![image](https://github.com/user-attachments/assets/eb99bd70-6528-4993-918a-a869141118fe)![image](https://github.com/user-attachments/assets/82021060-675b-40ac-b01d-a96684c51129)![image](https://github.com/user-attachments/assets/3ef2cc0f-7b42-4e81-9166-1a9d563496ed)![image](https://github.com/user-attachments/assets/e6931f04-0def-4829-b93a-a131b2695d74)![image](https://github.com/user-attachments/assets/7b2d8249-3e3b-4830-b80e-b2d14d58606a)![image](https://github.com/user-attachments/assets/150a485d-8a07-4721-90b0-77b32bb6c325)![image](https://github.com/user-attachments/assets/c1d1f633-f8a0-4b99-af6b-485768550ac9)---
 layout: article
 title: Research
 show_title: false
@@ -749,8 +749,38 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 
 
 ## Patent
-- 基于匿名凭证的身份认证方法、设备及介质. 申请号：ZL 2023 1 1073298.4
-- 基于非交互分布式密钥的门限ECDSA签名方法及系统. 申请号：ZL 2023 1 1303452.2
-- 基于密码采样的概率权益证明方法及系统. 申请号: ZL 2023 1 1553217.0
-- 基于可验证随机和延迟函数的匿名网络构建方法及系统. 申请号：ZL 2023 1 1313377.8
-- 一种基于BFV全同态加密算法的近邻检测方法及系统. 申请号：ZL 2023 1 1161324.9
+- 李增鹏,陈梦佳,王梅,丁江,张国艳,王伟嘉. 基于匿名凭证的身份认证方法、设备及介质. 申请号：ZL 2023 1 1073298.4
+- 李增鹏,吕英杰,李蔚,王梅,陈少伟. 基于非交互分布式密钥的门限ECDSA签名方法及系统. 申请号：ZL 2023 1 1303452.2
+- 李增鹏,朱豪,王梅,王书超,王伟嘉,王瑞锦. 基于密码采样的概率权益证明方法及系统. 申请号: ZL 2023 1 1553217.0
+- 李增鹏,朱豪,王书超,王梅,杨铮. 基于可验证随机和延迟函数的匿名网络构建方法及系统. 申请号：ZL 2023 1 1313377.8
+- 李增鹏,韦肖扬,王思旸,王梅. 一种基于BFV全同态加密算法的近邻检测方法及系统. 申请号：ZL 2023 1 1161324.9
+- 李增鹏,赵子硕,王书超,王梅,魏普文. 一种轻量级隐私安全的分布式随机信标生成方法及系统. 申请号：ZL 2023 1 1533417X
+- 李增鹏,王书超,马增妍,王梅,崔浩宇. 一种基于GPU的同态密文人脸隐匿查询方法及系统. 申请号: ZL 2024 1 0680715X
+- 王梅,杨潇然,李增鹏,王世晞,顾益宇,杨铮. 一种抗预计算攻击的低交互设备互联通信方法及系统. 申请号: ZL 2024 1 05148333
+- 李增鹏,丁江,王梅. 一种后量子安全的VOPRF协议、匿名令牌认证方法及系统. 申请号: ZL 2024 1 03071695
+- 李增鹏,李蔚,吕英杰,王梅,廖光宇,耿春秋,陈少伟. 基于伪随机数生成器的门限ECDSA签名方法及系统. 申请号: ZL 2024 1 00392567
+- 李增鹏,耿春秋,廖光宇,王梅,陈少伟,顾益宇. 基于格的分布式可验证随机函数构造方法及系统. 申请号: ZL 2024 1 01930054
+- 王梅,王思旸,冯相迪,李增鹏. 基于面部识别的认证密钥安全通信方法及系统. 申请号: ZL 2024 1 00159011
+
+
+
+## Software Copyright
+- 基于GPU快速实现的同态密文人脸隐匿查询系统V1.0. 登记号: 2024SR0993451. 证书号: 软著登字第13397324号.
+- 面向位置保护的隐私距离计算与近邻检测软件[ABY-PPLP]V1.0. 登记号:2023SR1523592. 证书号：软著登字第12110765号.
+- 敏感数据泄密检查与取证系统[SIGMA-DBS]V1.0. 登记号：2024SR0993761. 证书号：软著登字第13397634号.
+- 
+
+## Competition
+
+全国信息安全竞赛
+- 近邻检测，2023，三等奖 韦肖扬等 
+- 去中心化随机信标，2023，优胜奖 杨尚华、周世焜、李恒远、刘畅 (https://119.45.125.251/)
+
+全国密码科普竞赛
+- 全同态加密科普介绍，2023，二等奖，赵子硕、吕英杰、李蔚
+- 隐私信息检索技术科普，2023，三等奖，丁江、朱豪、陈梦佳
+
+全国密码技术竞赛
+- 去中心化随机信标，2023，二等奖 赵子硕、王书超、李宣仪
+- 匿名通信，2023，三等奖 朱豪 杨潇然 葛菲 
+- 隐私保护近邻检测，2022，三等奖 韦肖扬、倪晓晗、倪佳蔚 (https://PPLP-ABY.github.io)
