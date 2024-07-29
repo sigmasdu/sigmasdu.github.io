@@ -11,19 +11,21 @@ key: page-members
 - [王梅](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
 
 
-## Ph.D. students
+## Ph.D. Students
 
 - 2024级 朱豪（硕博连读, 中交委培）
 - 2023级 程向军（中交委培）
 - 2023级 陈梦佳（直博, 中交委培）
-
-- 2024级 周菲（co-supervisor）
-- 2023级 魏英凯（co-supervisor）
-- 2021级 鹿鹏飞（co-supervisor）
   
-## Ph.D. visiting students
+## Ph.D. Co-supervision
 
-- 2020级 廖光宇（co-supervisor）
+- 2024级 周菲
+- 2023级 魏英凯
+- 2021级 鹿鹏飞
+  
+## Ph.D. visitor
+
+- 2020级 廖光宇
   
 ## Master students
 
@@ -63,7 +65,7 @@ key: page-members
 - 2024级 王磊 流体天喜系统的物理层安全传输，西安电子科技大学读研
 - 2023级 邵鹏翔 基于函数秘密共享的隐私紧邻检测，北京大学读研
 - 2023级 王彦森 门限ECDSA签名，服役
-- 2023级 吕英杰 分布式密钥生成机制与门限ECDSA签名，山东大学读研（2024年山东大学优秀本科毕设）
+- 2023级 吕英杰 分布式密钥生成机制与门限ECDSA签名，山东大学读研（2023年山东大学优秀本科毕设）
 - 2023级 严崇铭 口令认证密钥交换，新加坡国立读研
 - 2023级 陈梦佳 双因子匿名凭证，山东大学直博
 - 2023级 王思旸 隐私保护近邻检测，山东大学读研
