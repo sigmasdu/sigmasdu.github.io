@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ea79e8be-9af3-4dac-a13a-d8256c96752d)![image](https://github.com/user-attachments/assets/2b9f9a3d-583c-4dc1-83e4-df7ae6a8b310)---
 layout: article
 title: Research
 show_title: false
@@ -781,10 +781,14 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 ## Competition
 
 全国信息安全竞赛
+- 基于伪随机数生成器的轻量级门限签名方案, 2024, 三等奖，朗泓森、徐家兴、张海洋、迟曼
+- Zapper:简洁低交互的物联网设备互联认证协议，2024，优胜奖，赵嵘晖、王佳乐、陈子豪
 - LocAnon: 隐私感知近邻检索与距离计算平台，2023，三等奖 韦肖扬、李博睿、仇召昱、李卓群 
 - 公平使者：面向未来基于同态加密的无偏置去中心化随机信标，2023，优胜奖 杨尚华、周世焜、李恒远、刘畅 (https://119.45.125.251/)
 
 全国密码科普竞赛
+- 哈希函数：密码学的守护者，2024，二等奖，耿春秋、陈梦佳、匡金明
+- 三分钟带你走进零知识证明，2024，三等奖，李蔚、李宣仪、周婷婷
 - 全同态加密科普介绍，2023，二等奖，赵子硕、吕英杰、李蔚
 - 隐私信息检索技术科普，2023，三等奖，丁江、朱豪、陈梦佳
 - 差分隐私，2021，三等奖，邓旭东，魏令涛，高菲
