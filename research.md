@@ -1,3 +1,4 @@
+---
 layout: article
 title: Research
 show_title: false
