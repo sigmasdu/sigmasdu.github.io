@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ea79e8be-9af3-4dac-a13a-d8256c96752d)![image](https://github.com/user-attachments/assets/2b9f9a3d-583c-4dc1-83e4-df7ae6a8b310)---
 layout: article
 title: Research
 show_title: false
