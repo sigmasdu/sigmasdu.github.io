@@ -6,10 +6,10 @@ key: page-research
 
 ## Courses for Undergraduates
 
-- [网络工程与防御实践 (SD04630270)](https://sigmasdu.github.io/courses/sd04630270.html)
-- [网络安全法(SD0630270)](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
+- [网络工程与防御实践 (SD04630270)](/courses/sd04630270.html)
+- [网络安全法(SD04630150)](/courses/sd04630150.html)
 - [安全多方计算 (SD04630460)](https://zengpengli.github.io/mpc)
-- [计算机取证](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
+- [计算机取证(SD04630470)](/courses/sd04630470.html)
 
 
 ## Courses for Gradutes
