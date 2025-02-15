@@ -14,6 +14,8 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   Natural Science Foundation of China (grant No. 62472255)
 - 基于隐私增强技术的口令安全认证机制研究 (Research on Password-based Authentication)<br>
   Natural Science Foundation of China (grant No. 62302271)
+- 自适应安全门限签名的实用化构造研究 (Adaptive-Secure Threshold Signatures)<br>
+  山东省高等学校青创科技支持计划 Youth Innovation Team of Shandong Province (grant No. 2024KJH179) 
 - 基于格密码的分布式随机信标生成机制研究 (Research on Distributed Random Beacon over Lattices)<br>
   Natural Science Foundation of Shandong Province, China (grant No. ZR2023MF045)
 - 工业互联网口令认证关键问题研究 (Research on Password-Authenticated Key Exchange for Industrial IoT)<br>
