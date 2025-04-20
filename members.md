@@ -13,6 +13,7 @@ key: page-members
 
 ## Ph.D. Students
 
+- 2025级 邓旭东
 - 2024级 朱豪（硕博连读, 中交委培）
 - 2024级 霍朝宾（中电委培）
 - 2024级 史俊（中电委培）
@@ -29,15 +30,19 @@ key: page-members
   
 ## Master students
 
+- 2025级 陶瑞琦 （山东大学）
+- 2025级 黄廷宸伊 （山东大学）
+- 2025级 胡灏然 （华北电力大学）
+- 2025级 李永琪 （山东大学，中交委培）PIR与Oblivious Retrival
 - 2024级 崔浩宇（山东大学）FHE与PIR Acceleration
 - 2024级 周婷婷（山东大学）MPC与Threshold Sign
 - 2024级 王浩（中国石油大学）TEE与Remote Attestation
 - 2024级 刘芮洁（中国石油大学）TEE与Remote Attestation
 - 2024级 孙洋（中国石油大学）PIR与Oblivious Retrival
-- 2024级 逯笑扬（山东大学）隐私推理与GPU Acceleration
+- 2024级 逯笑扬（山东大学）匿名代币与凭证
 - 2024级 柏骄阳（齐鲁工业大学）隐私推理与GPU Acceleration
-- 2024级 李路岩（山东大学，中电委培）Remote Attestation
-- 2024级 王珂（郑州大学，中电委培）FHE & Privacy Inference
+- 2024级 李路岩（山东大学，中电委培）网络安全协议与Tarmarin形式化
+- 2024级 王珂（郑州大学，中电委培）隐私推理
 - 2024级 李沛然（哈尔滨工程大学，中交委培）TEE与机密计算
 - 2024级 陈晓宇（山东师范大学，中交委培）身份认证与PAKE
 - 2024级 魏东方（重庆科技大学，退役）身份认证与PAKE
@@ -57,9 +62,9 @@ key: page-members
 - 2022级 朱豪（山东理工大学，中交委培）PAKE与Tor
 
 ## Alumnus & Visitors
-- 2018-2021 邓旭东
-- 2018-2021 肖帅（山东公务员）
-- 2019-2022 高菲
+- 2018-2021 邓旭东 （读博）
+- 2018-2021 肖帅（公务员、副镇长）
+- 2019-2022 高菲 （三未信安）
 - 2019-2022 魏令涛（山东电网）
 
 ## Internship projects and students
