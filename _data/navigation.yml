@@ -42,7 +42,7 @@ header:
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
       # @end locale config
-    url: /members.html
+    url: /members
 
   - titles:
       # @start locale config
@@ -62,7 +62,7 @@ header:
     url: /seminar.html
 
   - title: Summer School
-    url: /summer_school.html
+    url: /summer_school
 
   # - title: Awesome-Material
   #   url: /Awesome-Material.html
