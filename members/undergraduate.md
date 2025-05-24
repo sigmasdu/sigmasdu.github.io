@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Sigma小组成员
+title: 
 key: page-members
 ---
 
