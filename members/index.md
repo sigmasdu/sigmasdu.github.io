@@ -54,7 +54,7 @@ key: page-members
 - 2023级 杨潇然（新疆大学）PAKE与Anonymous Credential
 - 2023级 匡金明（中国矿业大学）Secure Aggregation与判定树
 
-## Master students (Part-Times)
+## Master students (Part-Time)
 
 - 2025级 李永琪 （山东大学，中交委培）PIR与Oblivious Retrival
 - 2024级 陈晓宇（山东师范大学，中交委培）身份认证与PAKE
