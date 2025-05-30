@@ -26,13 +26,10 @@ key: page-members
 - 2024级 史俊（中电委培）
 - 2023级 程向军（中交委培）
   
-## Ph.D. Co-supervision
+## Ph.D. Visitors and Co-supervision
 
 - 2021级 鹿鹏飞
-  
-## Ph.D. Visitors
-
-- 2020级 廖光宇
+- 2020级 廖光宇  
   
 ## Master students
 
