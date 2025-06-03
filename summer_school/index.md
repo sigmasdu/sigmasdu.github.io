@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 山东大学隐私增强计算前沿讲习
+title: 隐私增强计算前沿讲习
 key: page-summer_school-index
 ---
 ## Lectures
