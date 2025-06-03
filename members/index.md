@@ -28,7 +28,6 @@ key: page-members
   
 ## Ph.D. Visitors and Co-supervision
 
-- 2021级 鹿鹏飞
 - 2020级 廖光宇  
   
 ## Master students
@@ -71,4 +70,6 @@ key: page-members
 - 2018-2021 肖帅，副镇长
 - 2019-2022 高菲，三未信安
 - 2019-2022 魏令涛，山东电网
+
+## [Undergraduate Alumnus](/members/undergraduate)
 
