@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Sigma小组成员
+title: 
 key: page-members
 ---
 
 
-## Faculty members
+## Faculty Members
 
 - [李增鹏](https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm)
 - [王梅](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
