@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Awesome
-key: page-awesome
+title: Seminar
+key: page-seminar
 ---
 
 # TBD
