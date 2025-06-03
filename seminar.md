@@ -4,6 +4,13 @@ title: Seminar
 key: page-seminar
 ---
 
+
+
+
+
+
+## Seminars
+
 - 2024 June, 刘健 (浙江大学), PIR 
 - 2024 May, 李漓春 (阿里), 隐私计算
 - 2024 Apr, 汤殿华 (30所), PIR
@@ -46,19 +53,7 @@ key: page-seminar
 - 2021 Nov, Daniël Reijsbergen (NTU), Probabilistic Proof-of-Stake Protocol  
 - 2021 Oct, Vishal Sharma (Queen's University, Belfast),  Evaluating Blockchain Protocols with Abusive Modeling  
 
-## Summer School
-
-- 2024 July, Mark Manulis (Universität der Bundeswehr München), Private data processing
-- 2024 July, Willy Susilo (University of Wollongong), Advanced Crypto 
-- 2024 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation-based proof   
-- 2023 July, Mark Manulis (Universität der Bundeswehr München), Private data processing
-- 2023 July, Willy Susilo (University of Wollongong), Advanced Crypto 
-- 2023 July, Hong-Sheng Zhou (VCU), Multiparty Computing via Simulation-based proof   
-- 2022 July, Hong-Sheng Zhou (VCU), Advanced Crypto and Multiparty Computing
-
-## Upon coming
-
-- 2024, Sherman Chow (Chinese University of Hong Kong)
+Upon coming: Sherman Chow (Chinese University of Hong Kong)
 
 
 ## Services and News
