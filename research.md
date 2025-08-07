@@ -752,7 +752,7 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
 
 
 
-## Patent
+## [Patent](https://www.patentguru.com/cn/inventor/%E6%9D%8E%E5%A2%9E%E9%B9%8F?q=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6)
 - 李增鹏, 崔浩宇, 王梅, 王书超, 王思旸, 丁江. 基于GPU快速响应的隐私信息检索方法及系统. 申请号：ZL 2024 1 1186276.3
 - 王梅, 葛菲, 刘芮洁, 李路岩, 王浩, 李增鹏. 一种具有盲验证功能的辅助异构远程认证方法及系统. 申请号：ZL 2024 1 1417819.8
 - 李增鹏, 陈梦佳, 王梅, 丁江, 张国艳, 王伟嘉. 基于匿名凭证的身份认证方法、设备及介质. 申请号：ZL 2023 1 1073298.4
