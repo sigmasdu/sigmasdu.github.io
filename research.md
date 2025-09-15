@@ -7,7 +7,7 @@ key: page-research
 
 
 ## Selected Funded Projects
-Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous support. 
+Thank you to NSFC, NSFC-SD, NSFC-QD, Huawei, Tencent, and Bitmain for their generous support. 
 ### ongoing
 
 - 具有鲁棒性的自适应安全门限签名构造方法研究 (Adaptive-Secure Threshold Signatures with Robustness)<br>
@@ -20,20 +20,24 @@ Thank You to NSFC, NSFC-SD, NSFC-QD, Huawei, and Bitmain for their generous supp
   Natural Science Foundation of Shandong Province, China (grant No. ZR2023MF045)
 - 工业互联网口令认证关键问题研究 (Research on Password-Authenticated Key Exchange for Industrial IoT)<br>
   Natural Science Foundation of Shandong Province, China (grant No. ZR2023QF088)
-- 去中心化随机信标生成关键技术研究 (Cryptographic Techniques for Decentralized Randomness Generation)<br>
-  Natural Science Foundation of Qingdao, China (grant No. 23-2-1-152-zyyd-jch)
-- National Key Research and Development Program of China (grant No. 2022YFB2701700)<br>
 - National Key Research and Development Program of China (grant No. 2021YFA1000600)<br>
-- Department of Science&Technology of Shandong Province (grant No.SYS202201)<br>
-- Quan Cheng Laboratory (grant No. QCLZD202302)<br>
+- CCF-腾讯犀牛鸟 智能体可信互通 
+
 
 ### done
+- National Key Research and Development Program of China (grant No. 2022YFB2701700)<br>
+- CCF-华为胡杨林基金可信计算 异构TEE可信互联互通
+- 去中心化随机信标生成关键技术研究 (Cryptographic Techniques for Decentralized Randomness Generation)<br>
+  Natural Science Foundation of Qingdao, China (grant No. 23-2-1-152-zyyd-jch)  
+- Department of Science&Technology of Shandong Province (grant No.SYS202201)<br>
+- Quan Cheng Laboratory (grant No. QCLZD202302)<br>
 - 基于格基全同态加密的密文安全计算研究 (Research on Secure Computing of Encrypted Data via Lattice-Based Fully Homomorphic Encryption) No. 61802214
 	National Natural Science Foundation of China, NSFC.
 - 基于格的受限伪随机函数关键问题研究 (Research on Constrained PRF over lattices) No. ZR2019BF009
 	National Natural Science Foundation of Shandong Province, China.
 - 基于格密码的可验证伪随机函数安全计算研究 (Research on VRF over lattices) No. 19-6-2-cg
-	Qingdao Applied Foundational Research Program, China  
+	Qingdao Applied Foundational Research Program, China
+
 
 
 ## Publications
