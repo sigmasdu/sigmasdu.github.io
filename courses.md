@@ -13,7 +13,7 @@ key: page-research
 
 ## Courses for Graduates
 
-- [创新与思辨（方滨兴院士班）(0740037)](https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm)
+- [创新与思辨（方滨兴院士班）(0740037)](https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm) 2025年度山东省研究生教育优质课程
 - [新技术安全（0740028）](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
 
 ## Competition
