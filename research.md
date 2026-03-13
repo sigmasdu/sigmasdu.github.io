@@ -51,10 +51,8 @@ Thank you to NSFC, NSFC-SD, NSFC-QD, Huawei, Tencent, and Bitmain for their gene
 
 ### ongoing
 - GreatSage: Securing Authentication with Anonymous Access Tokens
-- PADRE: Privacy-Aware Decentralized Randomness
 - KAME: Privacy-Preserving Proximity Test
 - MPC-Friendly Key (and Randomness) Generation for Dynamic-Committee
-- Robust Threshold ECDSA
 - Blind-Envoy: Magical Private Message Service
 
 ### 2023
