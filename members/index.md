@@ -4,14 +4,14 @@ title:
 key: page-members
 ---
 
-
 <style>
-.members-page > .faculty-members > a,
+.members-page > .member-grid > *,
 .members-page > ul > li {
   min-width: 0;
   overflow-wrap: anywhere;
 }
-.members-page > .faculty-members,
+
+.members-page > .member-grid,
 .members-page > ul {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -19,10 +19,33 @@ key: page-members
   row-gap: 0.35rem;
 }
 
+.advisor-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  column-gap: 2.5rem;
+}
+
+.advisor-column {
+  min-width: 0;
+}
+
+.advisor-column h3 {
+  margin-top: 0;
+}
+
+.advisor-column li {
+  overflow-wrap: anywhere;
+}
+
 @media (max-width: 767px) {
-  .members-page > .faculty-members,
+  .members-page > .member-grid,
   .members-page > ul {
     grid-template-columns: 1fr;
+  }
+
+  .advisor-grid {
+    column-gap: 1rem;
   }
 }
 </style>
@@ -31,7 +54,7 @@ key: page-members
 
 ## Faculty Members
 
-<div class="faculty-members">
+<div class="member-grid">
   <a href="https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm">李增鹏</a>
   <a href="https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm">王梅</a>
 </div>
@@ -43,29 +66,25 @@ key: page-members
 ## Ph.D. Students
 
 <ul class="member-grid">
-  <li>2026级 刘凯中（直博，电科委培）</li>
   <li>2026级 迟曼（直博，通用技术研究院委培）</li>
+  <li>2026级 刘凯中（直博，电科委培）</li>
   <li>2025级 邓旭东</li>
   <li>2025级 唐博</li>
   <li>2024级 朱豪（2022硕博连读, 中交委培）</li>
-  <li>2023级 陈梦佳（直博, 中交委培，合作导师：侯芸）</li>
+  <li>2023级 陈梦佳（直博, 中交委培）</li>
 </ul>
 
 ## Ph.D. Students (Part-Time)
 
-<ul class="member-grid">
-  <li>2026级 满翔宇（空天委培，合作导师：张化祥）</li>
-  <li>2026级 李宸宇（中交委培，合作导师：查雅行）</li>
-  <li>2024级 霍朝宾（中电委培，合作导师：阮强）</li>
-  <li>2024级 史俊（中电委培，合作导师：李蕾）</li>
-  <li>2023级 程向军（中交委培，合作导师：侯芸）</li>
-</ul>
+- 2024级 霍朝宾（中电委培）
+- 2024级 史俊（中电委培）
+- 2023级 程向军（中交委培）
 
 ## Ph.D. Visitors and Co-supervision
 
 - 2020级 廖光宇
 
-## Master's students
+## Master students
 
 <div class="advisor-grid">
   <section class="advisor-column">
@@ -92,7 +111,7 @@ key: page-members
   </section>
 </div>
 
-## Master's students (Part-Time)
+## Master students (Part-Time)
 
 - 2026级 张海洋（山东大学，电科委培）
 - 2026级 刁文（山东大学，电科委培）
@@ -124,7 +143,6 @@ key: page-members
 - 2019-2022 魏令涛，山东电网
 
 </div>
-
 
 
 ## [Undergraduate Alumnus](/members/undergraduate)
