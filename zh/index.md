@@ -3,11 +3,6 @@ layout: none
 key: page-home
 ---
 
----
-layout: none
-key: page-home
----
-
 ## 团队简介
 
 安全智算与应用（Sigma）小组依托山东大学网络空间安全学院（研究院）密码团队，是山东省高等学校青年创新团队项目。团队面向可信数据空间中的身份可信、数据安全流通与密态计算需求，开展实用密码协议（Real-World Cryptographic Protocol）研究，致力于为数据合规流通、隐私保护与安全计算提供理论基础、关键技术和原型系统。
