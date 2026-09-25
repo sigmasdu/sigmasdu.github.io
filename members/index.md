@@ -174,7 +174,6 @@ key: page-members
 
 <div class="advisor-grid">
   <section class="advisor-column">
-    <h3>李增鹏</h3>
     <ul>
       <li>2026级 王紫璇（苏州大学）</li>
       <li>2026级 任航（苏州大学）</li>
@@ -200,7 +199,6 @@ key: page-members
     </ul>
   </section>
   <section class="advisor-column">
-    <h3>王梅</h3>
     <ul>
       <li>2026级 姚逸超（南京邮电）</li>
       <li>2026级 王男（山东科技）</li>
@@ -228,7 +226,6 @@ key: page-members
 
 <div class="advisor-grid">
   <section class="advisor-column">
-    <h3>李增鹏</h3>
     <ul>
       <li>2026级 张海洋（山东大学，电科委培）</li>
       <li>2026级 刁文（山东大学，电科委培）</li>
@@ -239,7 +236,6 @@ key: page-members
     </ul>
   </section>
   <section class="advisor-column">
-    <h3>王梅</h3>
     <ul>
       <li>2026级 赵一泽（山东大学，电科委培）</li>
       <li>2024级 李沛然（哈尔滨工程大学，中交委培）</li>
