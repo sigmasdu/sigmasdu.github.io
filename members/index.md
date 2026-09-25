@@ -6,11 +6,12 @@ key: page-members
 
 
 <style>
+.members-page > .faculty-members > a,
 .members-page > ul > li {
   min-width: 0;
   overflow-wrap: anywhere;
 }
-
+.members-page > .faculty-members,
 .members-page > ul {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -19,6 +20,7 @@ key: page-members
 }
 
 @media (max-width: 767px) {
+  .members-page > .faculty-members,
   .members-page > ul {
     grid-template-columns: 1fr;
   }
@@ -29,8 +31,10 @@ key: page-members
 
 ## Faculty Members
 
-- [李增鹏](https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm)
-- [王梅](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
+<div class="faculty-members">
+  <a href="https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm">李增鹏</a>
+  <a href="https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm">王梅</a>
+</div>
 
 ## Guest Faculty
 
