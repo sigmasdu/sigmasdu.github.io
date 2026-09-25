@@ -227,6 +227,7 @@ key: page-members
 <div class="advisor-grid">
   <section class="advisor-column">
     <ul>
+      <li>2027级 熊芷萱（山东大学，中电委培）</li>
       <li>2026级 张海洋（山东大学，电科委培）</li>
       <li>2026级 刁文（山东大学，电科委培）</li>
       <li>2025级 李永琪（山东大学，中交委培）</li>
