@@ -5,29 +5,27 @@ key: page-members
 ---
 
 
-
 <style>
-.members-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  align-items: start;
-  gap: 0 2.5rem;
-}
-
-.members-grid > div {
+.members-page > ul > li {
   min-width: 0;
   overflow-wrap: anywhere;
 }
 
+.members-page > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 2.5rem;
+  row-gap: 0.35rem;
+}
+
 @media (max-width: 767px) {
-  .members-grid {
+  .members-page > ul {
     grid-template-columns: 1fr;
   }
 }
 </style>
 
-<div class="members-grid">
-<div markdown="1">
+<div class="members-page" markdown="1">
 
 ## Faculty Members
 
@@ -72,9 +70,6 @@ key: page-members
 - 2024级 柏骄阳（齐鲁工业大学）隐私推理与GPU Acceleration
 - 2024级 魏东方（重庆科技大学，退役）身份认证与PAKE
 
-</div>
-<div markdown="1">
-
 ## Master students (Part-Time)
 
 - 2026级 张海洋（山东大学，电科委培）
@@ -107,7 +102,7 @@ key: page-members
 - 2019-2022 魏令涛，山东电网
 
 </div>
-</div>
+
 
 
 ## [Undergraduate Alumnus](/members/undergraduate)
