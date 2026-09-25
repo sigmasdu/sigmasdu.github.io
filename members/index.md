@@ -255,51 +255,51 @@ key: page-members
     <h3>李增鹏</h3>
     <ul>
       <li>
-        <span class="member-main">2023-2026，王思旸（山东大学，中交委培），</span>
+        <span class="member-main">2023-2026，王思旸（山东大学，中交委培）</span>
         <span class="member-note">武大读博</span>
       </li>
       <li>
-        <span class="member-main">2023-2026，吕英杰（山东大学，校优秀毕业生），</span>
+        <span class="member-main">2023-2026，吕英杰（山东大学，校优秀毕业生）</span>
         <span class="member-note">读博</span>
       </li>
       <li>
-        <span class="member-main">2023-2026，王书超（西电），</span>
+        <span class="member-main">2023-2026，王书超（西电）</span>
         <span class="member-note">电网</span>
       </li>
       <li>
-        <span class="member-main">2023-2026，匡金明（中国矿业），</span>
+        <span class="member-main">2023-2026，匡金明（中国矿业）</span>
         <span class="member-note">传音</span>
       </li>
       <li>
-        <span class="member-main">2023-2025，耿春秋（中国地质），</span>
+        <span class="member-main">2023-2025，耿春秋（中国地质）</span>
         <span class="member-note">山大读博</span>
       </li>
       <li>
-        <span class="member-main">2022-2025，赵子硕（山东大学），</span>
+        <span class="member-main">2022-2025，赵子硕（山东大学）</span>
         <span class="member-note">电网</span>
       </li>
       <li>
-        <span class="member-main">2022-2025，丁江（山东大学），</span>
+        <span class="member-main">2022-2025，丁江（山东大学）</span>
         <span class="member-note">南瑞</span>
       </li>
       <li>
-        <span class="member-main">2022-2025，李蔚（山东大学），</span>
+        <span class="member-main">2022-2025，李蔚（山东大学）</span>
         <span class="member-note">选调</span>
       </li>
       <li>
-        <span class="member-main">2019-2022，魏令涛（青岛大学），</span>
+        <span class="member-main">2019-2022，魏令涛（青岛大学）</span>
         <span class="member-note">电网</span>
       </li>
       <li>
-        <span class="member-main">2019-2022，高菲（青岛大学），</span>
+        <span class="member-main">2019-2022，高菲（青岛大学）</span>
         <span class="member-note">三未信安</span>
       </li>
       <li>
-        <span class="member-main">2019-2022，肖帅（青岛大学），</span>
+        <span class="member-main">2019-2022，肖帅（青岛大学）</span>
         <span class="member-note">镇长</span>
       </li>
       <li>
-        <span class="member-main">2019-2022，邓旭东（青岛大学），</span>
+        <span class="member-main">2019-2022，邓旭东（青岛大学）</span>
         <span class="member-note">山大读博</span>
       </li>
     </ul>
@@ -308,19 +308,19 @@ key: page-members
     <h3>王梅</h3>
     <ul>
       <li>
-        <span class="member-main">2023-2026，葛菲（山东大学），</span>
+        <span class="member-main">2023-2026，葛菲（山东大学）</span>
         <span class="member-note">阿里</span>
       </li>
       <li>
-        <span class="member-main">2023-2026，李宣仪（山东大学），</span>
+        <span class="member-main">2023-2026，李宣仪（山东大学）</span>
         <span class="member-note">航旅纵横</span>
       </li>
       <li>
-        <span class="member-main">2023-2026，杨潇然（新疆大学），</span>
+        <span class="member-main">2023-2026，杨潇然（新疆大学）</span>
         <span class="member-note">省联社</span>
       </li>
       <li>
-        <span class="member-main">2023-2026，李文文（山东大学，中电委培），</span>
+        <span class="member-main">2023-2026，李文文（山东大学，中电委培）</span>
         <span class="member-note">CETC</span>
       </li>
     </ul>
