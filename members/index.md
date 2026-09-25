@@ -84,34 +84,40 @@ key: page-members
 
 - 2020级 廖光宇
 
-## Master students
+## Master's students
 
 <div class="advisor-grid">
   <section class="advisor-column">
     <h3>李增鹏</h3>
     <ul>
+      <li>2026级 王紫璇（苏州大学）</li>
+      <li>2026级 任航（苏州大学）</li>
+      <li>2026级 张喆雨（曲阜师范）</li>
+      <li>2026级 曹云（长江大学）</li>
       <li>2025级 陶瑞琦（山东大学）</li>
       <li>2025级 黄廷宸伊（山东大学）</li>
-      <li>2025级 胡灏然（华北电力大学）</li>
-      <li>2025级 曹海健（齐鲁工业大学）</li>
+      <li>2025级 胡灏然（华北电力）</li>
+      <li>2025级 曹海健（齐鲁工业）</li>
       <li>2025级 赵英伟（江苏大学）</li>
-      <li>2024级 崔浩宇（山东大学）FHE与PIR Acceleration</li>
-      <li>2024级 王浩（中国石油大学）TEE与Remote Attestation</li>
-      <li>2024级 孙洋（中国石油大学）PIR与Oblivious Retrieval</li>
+      <li>2024级 崔浩宇（山东大学）隐私RAG</li>
+      <li>2024级 王浩（中国石油）远程可信证明 </li>
+      <li>2024级 孙洋（中国石油）Oblivious Retrieval</li>
     </ul>
   </section>
   <section class="advisor-column">
     <h3>王梅</h3>
     <ul>
-      <li>2024级 刘芮洁（中国石油大学）TEE与Remote Attestation</li>
-      <li>2024级 逯笑扬（山东大学）匿名代币与凭证</li>
-      <li>2024级 柏骄阳（齐鲁工业大学）隐私推理与GPU Acceleration</li>
-      <li>2024级 魏东方（重庆科技大学，退役）身份认证与PAKE</li>
+      <li>2026级 姚逸超（南京邮电）</li>
+      <li>2026级 王男（山东科技）</li>
+      <li>2024级 刘芮洁（中国石油大学）远程可信证明 </li>
+      <li>2024级 逯笑扬（山东大学）OPRF+AKE </li>
+      <li>2024级 柏骄阳（齐鲁工业大学）隐私推理 </li>
+      <li>2024级 魏东方（重庆科技大学，退役）可验证凭证 </li>
     </ul>
   </section>
 </div>
 
-## Master students (Part-Time)
+## Master's students (Part-Time)
 
 - 2026级 张海洋（山东大学，电科委培）
 - 2026级 刁文（山东大学，电科委培）
