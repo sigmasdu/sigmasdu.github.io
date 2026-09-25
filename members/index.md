@@ -5,12 +5,37 @@ key: page-members
 ---
 
 
+
+<style>
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: 0 2.5rem;
+}
+
+.members-grid > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 767px) {
+  .members-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="members-grid">
+<div markdown="1">
+
 ## Faculty Members
 
 - [李增鹏](https://faculty.sdu.edu.cn/lizengpeng/zh_CN/index.htm)
 - [王梅](https://faculty.sdu.edu.cn/wangmei12345/zh_CN/index.htm)
 
 ## Guest Faculty
+
 - [Riccardo Spolar](https://riki8686.github.io/#about)
 
 ## Ph.D. Students
@@ -27,11 +52,11 @@ key: page-members
 - 2024级 霍朝宾（中电委培）
 - 2024级 史俊（中电委培）
 - 2023级 程向军（中交委培）
-  
+
 ## Ph.D. Visitors and Co-supervision
 
-- 2020级 廖光宇  
-  
+- 2020级 廖光宇
+
 ## Master students
 
 - 2025级 陶瑞琦 （山东大学）
@@ -47,6 +72,8 @@ key: page-members
 - 2024级 柏骄阳（齐鲁工业大学）隐私推理与GPU Acceleration
 - 2024级 魏东方（重庆科技大学，退役）身份认证与PAKE
 
+</div>
+<div markdown="1">
 
 ## Master students (Part-Time)
 
@@ -78,6 +105,10 @@ key: page-members
 - 2018-2021 肖帅，副镇长
 - 2019-2022 高菲，三未信安
 - 2019-2022 魏令涛，山东电网
+
+</div>
+</div>
+
 
 ## [Undergraduate Alumnus](/members/undergraduate)
 
