@@ -3,11 +3,6 @@ layout: article
 title: 
 key: page-members
 ---
----
-layout: article
-title:
-key: page-members
----
 
 <style>
 .members-page {
