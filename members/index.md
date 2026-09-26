@@ -148,10 +148,10 @@ key: page-members
 <ul class="member-grid">
   <li>2026级 迟曼（直博，通用技术研究院委培）</li>
   <li>2026级 刘凯中（直博，电科委培）</li>
-  <li>2025级 邓旭东</li>
-  <li>2025级 唐博</li>
-  <li>2024级 朱豪（2022硕博连读, 中交委培）</li>
-  <li>2023级 陈梦佳（直博, 中交委培）</li>
+  <li>2025级 邓旭东 (合作导师：王美琴) </li>
+  <li>2025级 唐博 (合作导师：张国艳) </li>
+  <li>2024级 朱豪（2022硕博连读，中交委培）</li>
+  <li>2023级 陈梦佳（直博，中交委培）</li>
 </ul>
 
 ## Ph.D. Students (Part-Time)
@@ -251,6 +251,10 @@ key: page-members
   <section class="advisor-column">
     <h3>李增鹏</h3>
     <ul>
+       <li>
+        <span class="member-main">2022-2026，鹿鹏飞（博士生，导师：许光武）</span>
+        <span class="member-note">陆军工程大学，讲师</span>
+      </li>
       <li>
         <span class="member-main">2023-2026，王思旸（山东大学，中交委培）</span>
         <span class="member-note">武大读博</span>
